@@ -54,6 +54,7 @@ for (let i = 0; i < boatsData.length; i++) {
         "timestamp": locForId[0][0],
         "lat_dec": 46.27500,
         "lon_dec": 1.47500,
+        "speed": boatsData[i][8],
         "1hour_heading": 0,
         "1hour_speed": 0,
         "1hour_vmg": 0,

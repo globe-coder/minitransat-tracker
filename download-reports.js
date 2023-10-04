@@ -76,6 +76,11 @@ const trackerBasePath = '/2023/tracker/resources/leg1/';
 
 // ================================== UTILS ===================================
 
+function handleError(error){
+	console.error(error);
+	process.exit(1)
+}
+
 function geoVoileGet(path, callback){
 	let url = 'https://' + geovoileHostname + path;
 	let options = {
@@ -88,7 +93,7 @@ function geoVoileGet(path, callback){
 			callback(response.data);
 	  })
 	  .catch(error => {
-			console.error(error);
+			handleError(error);
 	  });
 }
 
@@ -117,7 +122,7 @@ let boatsPath = trackerBasePath + 'live/v' + boatsVersion;
 
 downloadReport(boatsPath, function(reportData){
 	fs.writeFile('./boats.json', reportData, err => {
-	  if (err) { console.error(err) }
+	  if (err) { handleError(err) }
 	});
 });
 
@@ -126,7 +131,7 @@ getTracksVersion(function(tracksVersion){
 	let tracksPath = trackerBasePath + 'tracks/v' + tracksVersion;
 	downloadReport(tracksPath, function(reportData){
 		fs.writeFile('./tracks.json', reportData, err => {
-		  if (err) { console.error(err) }
+		  if (err) { handleError(err) }
 		});
 	});
 });

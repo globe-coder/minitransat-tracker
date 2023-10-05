@@ -22,9 +22,9 @@ const boats = jsonData.reports.history;
 const boatsData = boats[0].lines
 
 for (let i = 0; i < boatsData.length; i++) {
-    let lastLocDatetime = locForId[0][0];
     const sail = parseInt(boatsData[i][0]);
     const locForId = findLocById(jsonTracks.tracks, sail);
+    let lastLocDatetime = locForId[0][0];
     const trackDataArray = boatsData[i][29];
     const track = [];
     const firstPoint = [

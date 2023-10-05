@@ -22,6 +22,7 @@ const boats = jsonData.reports.history;
 const boatsData = boats[0].lines
 
 for (let i = 0; i < boatsData.length; i++) {
+    let lastLocDatetime = locForId[0][0];
     const sail = parseInt(boatsData[i][0]);
     const locForId = findLocById(jsonTracks.tracks, sail);
     const trackDataArray = boatsData[i][29];
@@ -33,7 +34,7 @@ for (let i = 0; i < boatsData.length; i++) {
     track.push(firstPoint);
 
     for (let j = 0; j < locForId.length - 1; j++) {
-
+        lastLocDatetime += locForId[j + 1][0];
         const transformedPoint = [
             (locForId[j + 1][1] / 100000) + track[j][0],
             (locForId[j + 1][2] / 100000) + track[j][1]
@@ -51,7 +52,7 @@ for (let i = 0; i < boatsData.length; i++) {
         "heading": boatsData[i][7],
         "rank": boatsData[i][2],
         "sail": sail,
-        "timestamp": locForId[0][0],
+        "timestamp": lastLocDatetime,
         "lat_dec": 46.27500,
         "lon_dec": 1.47500,
         "speed": boatsData[i][8],

@@ -1,3 +1,4 @@
+const { Console } = require('console');
 const fs = require('fs');
 
 const inputJson = fs.readFileSync('boats.json', 'utf8');
@@ -22,6 +23,10 @@ const boats = jsonData.reports.history;
 const boatsData = boats[0].lines
 
 for (let i = 0; i < boatsData.length; i++) {
+    const racestatus = boatsData[i][1];
+    if (racestatus != "RAC") {
+        continue
+    }
     const sail = parseInt(boatsData[i][0]);
     const locForId = findLocById(jsonTracks.tracks, sail);
     let lastLocDatetime = locForId[0][0];

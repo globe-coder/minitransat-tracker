@@ -39,10 +39,13 @@ for (let i = 0; i < boatsData.length; i++) {
     track.push(firstPoint);
 
     for (let j = 0; j < locForId.length - 1; j++) {
-        lastLocDatetime += locForId[j + 1][0];
+        const posUpdate = locForId[j + 1];
+        lastLocDatetime += posUpdate[0];
+        const newLat = (posUpdate[1] / 100000) + track[j][0];
+        const newLng = (posUpdate[2] / 100000) + track[j][0];
         const transformedPoint = [
-            (locForId[j + 1][1] / 100000) + track[j][0],
-            (locForId[j + 1][2] / 100000) + track[j][1]
+            Math.round(newLat * 100000) / 100000,
+            Math.round(newLng * 100000) / 100000
         ];
         track.push(transformedPoint);
     }
@@ -85,5 +88,5 @@ for (let i = 0; i < boatsData.length; i++) {
     };
 }
 
-const resultJson = JSON.stringify(result, null, 4);
+const resultJson = JSON.stringify(result);
 fs.writeFileSync('boats_result.json', resultJson, 'utf8');

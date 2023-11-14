@@ -4,10 +4,10 @@
             "heading": 263,
             "rank": 23,
             "sail": 198,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7.5,
+            "speed": 7.8,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -16,13 +16,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 262,
+            "24hour_heading": 261,
             "24hour_speed": 0,
-            "24hour_vmg": 8,
-            "24hour_distance": 191.7,
-            "dtf": 97.7,
-            "dtl": 88.8,
-            "dtp": 1.8,
+            "24hour_vmg": 7.9,
+            "24hour_distance": 189.8,
+            "dtf": 90.2,
+            "dtl": 89.3,
+            "dtp": -0.5,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -3250,19 +3250,27 @@
                     -59.590999999999994
                 ],
                 [
-                    16.0208,
-                    -59.591
+                    16.01459999999998,
+                    -59.65429999999999
+                ],
+                [
+                    16.00679999999998,
+                    -59.721799999999995
+                ],
+                [
+                    16.0068,
+                    -59.7218
                 ]
             ]
         },
         "335": {
-            "heading": 236,
-            "rank": 25,
+            "heading": 232,
+            "rank": 24,
             "sail": 335,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7.3,
+            "speed": 7.4,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -3271,13 +3279,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 253,
+            "24hour_heading": 250,
             "24hour_speed": 0,
             "24hour_vmg": 6.6,
-            "24hour_distance": 159.1,
-            "dtf": 225.2,
-            "dtl": 216.3,
-            "dtp": 1.2,
+            "24hour_distance": 158.7,
+            "dtf": 218.5,
+            "dtl": 217.6,
+            "dtp": -1.3,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -6497,19 +6505,27 @@
                     -57.47150000000003
                 ],
                 [
-                    17.011,
-                    -57.4715
+                    16.974299999999975,
+                    -57.522400000000026
+                ],
+                [
+                    16.936399999999974,
+                    -57.57360000000003
+                ],
+                [
+                    16.9364,
+                    -57.5736
                 ]
             ]
         },
         "346": {
-            "heading": 280,
+            "heading": 269,
             "rank": 27,
             "sail": 346,
-            "timestamp": 1699932601,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7.5,
+            "speed": 4.1,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -6518,13 +6534,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 235,
+            "24hour_heading": 237,
             "24hour_speed": 0,
             "24hour_vmg": 6.4,
-            "24hour_distance": 175.8,
-            "dtf": 373.8,
-            "dtl": 364.9,
-            "dtp": 2,
+            "24hour_distance": 172.7,
+            "dtf": 367.6,
+            "dtl": 366.7,
+            "dtp": -1.8,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -9736,16 +9752,24 @@
                     -54.84009999999997
                 ],
                 [
-                    15.5186,
-                    -54.8401
+                    15.540000000000052,
+                    -54.90969999999997
+                ],
+                [
+                    15.539600000000052,
+                    -54.945499999999974
+                ],
+                [
+                    15.5396,
+                    -54.9455
                 ]
             ]
         },
         "423": {
-            "heading": 294,
+            "heading": 303,
             "rank": 45,
             "sail": 423,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
             "speed": 8.5,
@@ -9757,13 +9781,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 251,
+            "24hour_heading": 254,
             "24hour_speed": 0,
-            "24hour_vmg": 7.6,
-            "24hour_distance": 184.3,
-            "dtf": 78.6,
-            "dtl": 71.4,
-            "dtp": 1.1,
+            "24hour_vmg": 7.5,
+            "24hour_distance": 182.1,
+            "dtf": 70.7,
+            "dtl": 66.7,
+            "dtp": 4.7,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -12979,19 +13003,27 @@
                     -59.94370000000002
                 ],
                 [
-                    15.9023,
-                    -59.9437
+                    15.937899999999953,
+                    -60.00760000000002
+                ],
+                [
+                    15.976499999999954,
+                    -60.06890000000002
+                ],
+                [
+                    15.9765,
+                    -60.0689
                 ]
             ]
         },
         "427": {
-            "heading": 272,
+            "heading": 271,
             "rank": 26,
             "sail": 427,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 6.1,
+            "speed": 6.3,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -13000,13 +13032,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 253,
+            "24hour_heading": 255,
             "24hour_speed": 0,
-            "24hour_vmg": 5.8,
-            "24hour_distance": 144.7,
-            "dtf": 347.3,
-            "dtl": 338.4,
-            "dtp": 0.5,
+            "24hour_vmg": 5.9,
+            "24hour_distance": 144.5,
+            "dtf": 340.9,
+            "dtl": 340,
+            "dtp": -1.6,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -16230,19 +16262,27 @@
                     -55.264800000000044
                 ],
                 [
-                    15.9141,
-                    -55.2648
+                    15.915299999999995,
+                    -55.319400000000044
+                ],
+                [
+                    15.915899999999995,
+                    -55.37410000000004
+                ],
+                [
+                    15.9159,
+                    -55.3741
                 ]
             ]
         },
         "429": {
-            "heading": 236,
-            "rank": 24,
+            "heading": 277,
+            "rank": 25,
             "sail": 429,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7,
+            "speed": 6.5,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -16251,13 +16291,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 247,
+            "24hour_heading": 246,
             "24hour_speed": 0,
             "24hour_vmg": 6.5,
-            "24hour_distance": 162.4,
-            "dtf": 224.9,
-            "dtl": 216,
-            "dtp": 0,
+            "24hour_distance": 162.5,
+            "dtf": 218.9,
+            "dtl": 218,
+            "dtp": -2,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -19473,19 +19513,27 @@
                     -57.378899999999966
                 ],
                 [
-                    16.0806,
-                    -57.3789
+                    16.048700000000036,
+                    -57.42779999999997
+                ],
+                [
+                    16.055000000000035,
+                    -57.483999999999966
+                ],
+                [
+                    16.055,
+                    -57.484
                 ]
             ]
         },
         "520": {
-            "heading": 296,
+            "heading": 314,
             "rank": 42,
             "sail": 520,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 6.9,
+            "speed": 9.9,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -19494,13 +19542,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 267,
+            "24hour_heading": 270,
             "24hour_speed": 0,
             "24hour_vmg": 7.5,
-            "24hour_distance": 181,
-            "dtf": 12.5,
-            "dtl": 5.3,
-            "dtp": -0.6,
+            "24hour_distance": 179.6,
+            "dtf": 4,
+            "dtl": 0,
+            "dtp": 5.3,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -22760,16 +22808,40 @@
                     -61.0793
                 ],
                 [
-                    16.1218,
+                    16.12179999999994,
                     -61.0977
+                ],
+                [
+                    16.13389999999994,
+                    -61.117000000000004
+                ],
+                [
+                    16.14869999999994,
+                    -61.1347
+                ],
+                [
+                    16.16569999999994,
+                    -61.1535
+                ],
+                [
+                    16.181899999999942,
+                    -61.1717
+                ],
+                [
+                    16.200999999999944,
+                    -61.1923
+                ],
+                [
+                    16.218,
+                    -61.2119
                 ]
             ]
         },
         "599": {
-            "heading": 223,
+            "heading": 222,
             "rank": 57,
             "sail": 599,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
             "speed": 7.3,
@@ -22783,11 +22855,11 @@
             "lastreport_distance": 0,
             "24hour_heading": 230,
             "24hour_speed": 0,
-            "24hour_vmg": 6.2,
-            "24hour_distance": 165.9,
-            "dtf": 408.2,
-            "dtl": 401,
-            "dtp": -1.6,
+            "24hour_vmg": 6.1,
+            "24hour_distance": 165.8,
+            "dtf": 402.9,
+            "dtl": 398.9,
+            "dtp": 2.1,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -26019,19 +26091,27 @@
                     -54.21170000000002
                 ],
                 [
-                    16.697,
-                    -54.2117
+                    16.652600000000014,
+                    -54.25600000000002
+                ],
+                [
+                    16.607500000000012,
+                    -54.298900000000025
+                ],
+                [
+                    16.6075,
+                    -54.2989
                 ]
             ]
         },
         "630": {
-            "heading": 261,
+            "heading": 264,
             "rank": 28,
             "sail": 630,
-            "timestamp": 1699932600,
+            "timestamp": 1699936201,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 5.4,
+            "speed": 4.9,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -26040,13 +26120,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 248,
+            "24hour_heading": 249,
             "24hour_speed": 0,
             "24hour_vmg": 5.1,
-            "24hour_distance": 128.6,
-            "dtf": 390.1,
-            "dtl": 381.2,
-            "dtp": -0.2,
+            "24hour_distance": 127.8,
+            "dtf": 385.2,
+            "dtl": 384.2,
+            "dtp": -3,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -29274,19 +29354,27 @@
                     -54.515099999999954
                 ],
                 [
-                    16.0802,
-                    -54.5151
+                    16.07360000000001,
+                    -54.558799999999955
+                ],
+                [
+                    16.06910000000001,
+                    -54.600699999999954
+                ],
+                [
+                    16.0691,
+                    -54.6007
                 ]
             ]
         },
         "654": {
-            "heading": 230,
+            "heading": 226,
             "rank": 52,
             "sail": 654,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7.1,
+            "speed": 7.4,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -29298,10 +29386,10 @@
             "24hour_heading": 238,
             "24hour_speed": 0,
             "24hour_vmg": 6.6,
-            "24hour_distance": 163,
-            "dtf": 193.9,
-            "dtl": 186.7,
-            "dtp": -1.2,
+            "24hour_distance": 163.3,
+            "dtf": 188.1,
+            "dtl": 184.2,
+            "dtp": 2.5,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -32521,19 +32609,27 @@
                     -57.93080000000007
                 ],
                 [
-                    16.4832,
-                    -57.9308
+                    16.44569999999998,
+                    -57.97770000000007
+                ],
+                [
+                    16.40299999999998,
+                    -58.02410000000007
+                ],
+                [
+                    16.403,
+                    -58.0241
                 ]
             ]
         },
         "814": {
-            "heading": 302,
+            "heading": 308,
             "rank": 22,
             "sail": 814,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 6,
+            "speed": 8,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -32542,11 +32638,11 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 266,
+            "24hour_heading": 267,
             "24hour_speed": 0,
             "24hour_vmg": 7.4,
-            "24hour_distance": 177.6,
-            "dtf": 8.9,
+            "24hour_distance": 176.5,
+            "dtf": 0.9,
             "dtl": 0,
             "dtp": 0,
             "darksky_twd": "-",
@@ -35816,19 +35912,43 @@
                     -61.12809999999995
                 ],
                 [
-                    16.1623,
-                    -61.1437
+                    16.162300000000027,
+                    -61.143699999999946
+                ],
+                [
+                    16.177200000000028,
+                    -61.16029999999994
+                ],
+                [
+                    16.19200000000003,
+                    -61.177499999999945
+                ],
+                [
+                    16.20680000000003,
+                    -61.19509999999995
+                ],
+                [
+                    16.22140000000003,
+                    -61.21289999999995
+                ],
+                [
+                    16.23520000000003,
+                    -61.23109999999995
+                ],
+                [
+                    16.2469,
+                    -61.2485
                 ]
             ]
         },
         "833": {
-            "heading": 279,
+            "heading": 278,
             "rank": 55,
             "sail": 833,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7,
+            "speed": 6.9,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -35837,13 +35957,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 242,
+            "24hour_heading": 244,
             "24hour_speed": 0,
             "24hour_vmg": 6.8,
-            "24hour_distance": 169.3,
-            "dtf": 216.4,
-            "dtl": 209.2,
-            "dtp": -0.3,
+            "24hour_distance": 167.2,
+            "dtf": 209.6,
+            "dtl": 205.6,
+            "dtp": 3.6,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -39063,19 +39183,27 @@
                     -57.526900000000076
                 ],
                 [
-                    16.3041,
-                    -57.5269
+                    16.315199999999944,
+                    -57.58650000000008
+                ],
+                [
+                    16.323699999999945,
+                    -57.64600000000008
+                ],
+                [
+                    16.3237,
+                    -57.646
                 ]
             ]
         },
         "837": {
-            "heading": 290,
+            "heading": 288,
             "rank": 58,
             "sail": 837,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7.9,
+            "speed": 7.8,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -39086,11 +39214,11 @@
             "lastreport_distance": 0,
             "24hour_heading": 262,
             "24hour_speed": 0,
-            "24hour_vmg": 7.1,
-            "24hour_distance": 170.2,
-            "dtf": 416.4,
-            "dtl": 409.2,
-            "dtp": 0.2,
+            "24hour_vmg": 7,
+            "24hour_distance": 169,
+            "dtf": 409.3,
+            "dtl": 405.3,
+            "dtp": 3.9,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -42294,19 +42422,27 @@
                     -54.08659999999993
                 ],
                 [
-                    16.9078,
-                    -54.0866
+                    16.9312,
+                    -54.15139999999993
+                ],
+                [
+                    16.9515,
+                    -54.215699999999934
+                ],
+                [
+                    16.9515,
+                    -54.2157
                 ]
             ]
         },
         "848": {
-            "heading": 229,
+            "heading": 276,
             "rank": 54,
             "sail": 848,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 6.7,
+            "speed": 5.9,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -42315,13 +42451,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 231,
+            "24hour_heading": 232,
             "24hour_speed": 0,
-            "24hour_vmg": 6.3,
-            "24hour_distance": 162.5,
-            "dtf": 206.8,
-            "dtl": 199.6,
-            "dtp": -1.6,
+            "24hour_vmg": 6.2,
+            "24hour_distance": 161.4,
+            "dtf": 201.5,
+            "dtl": 197.5,
+            "dtp": 2.1,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -45533,19 +45669,27 @@
                     -57.69079999999988
                 ],
                 [
-                    16.1609,
-                    -57.6908
+                    16.126300000000032,
+                    -57.73319999999988
+                ],
+                [
+                    16.131700000000034,
+                    -57.784399999999884
+                ],
+                [
+                    16.1317,
+                    -57.7844
                 ]
             ]
         },
         "857": {
-            "heading": 249,
+            "heading": 241,
             "rank": 48,
             "sail": 857,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 8.5,
+            "speed": 7.8,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -45557,10 +45701,10 @@
             "24hour_heading": 248,
             "24hour_speed": 0,
             "24hour_vmg": 7.3,
-            "24hour_distance": 180,
-            "dtf": 126.7,
-            "dtl": 119.5,
-            "dtp": 0.2,
+            "24hour_distance": 179.4,
+            "dtf": 120,
+            "dtl": 116.1,
+            "dtp": 3.4,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -48784,8 +48928,16 @@
                     -59.088199999999986
                 ],
                 [
-                    15.9886,
-                    -59.0882
+                    15.96389999999999,
+                    -59.15159999999999
+                ],
+                [
+                    15.93229999999999,
+                    -59.21089999999999
+                ],
+                [
+                    15.9323,
+                    -59.2109
                 ]
             ]
         },
@@ -48793,10 +48945,10 @@
             "heading": 281,
             "rank": 56,
             "sail": 871,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 6.9,
+            "speed": 7.2,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -48805,13 +48957,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 252,
+            "24hour_heading": 254,
             "24hour_speed": 0,
-            "24hour_vmg": 6.2,
-            "24hour_distance": 153.1,
-            "dtf": 328.4,
-            "dtl": 321.2,
-            "dtp": -0.5,
+            "24hour_vmg": 6.3,
+            "24hour_distance": 153.6,
+            "dtf": 321.4,
+            "dtl": 317.4,
+            "dtp": 3.8,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -52055,16 +52207,24 @@
                     -55.58499999999996
                 ],
                 [
-                    16.388,
-                    -55.585
+                    16.401900000000023,
+                    -55.645699999999955
+                ],
+                [
+                    16.413900000000023,
+                    -55.707299999999954
+                ],
+                [
+                    16.4139,
+                    -55.7073
                 ]
             ]
         },
         "879": {
-            "heading": 305,
+            "heading": 310,
             "rank": 46,
             "sail": 879,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
             "speed": 8.6,
@@ -52076,13 +52236,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 276,
+            "24hour_heading": 279,
             "24hour_speed": 0,
-            "24hour_vmg": 6.7,
-            "24hour_distance": 163.1,
-            "dtf": 114,
-            "dtl": 106.8,
-            "dtp": -1.2,
+            "24hour_vmg": 6.8,
+            "24hour_distance": 165.1,
+            "dtf": 109,
+            "dtl": 105,
+            "dtp": 1.8,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -55310,19 +55470,27 @@
                     -59.3572
                 ],
                 [
-                    16.5949,
-                    -59.3572
+                    16.6368,
+                    -59.417899999999996
+                ],
+                [
+                    16.6828,
+                    -59.4749
+                ],
+                [
+                    16.6828,
+                    -59.4749
                 ]
             ]
         },
         "890": {
-            "heading": 248,
+            "heading": 245,
             "rank": 47,
             "sail": 890,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7.5,
+            "speed": 7.8,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -55331,13 +55499,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 249,
+            "24hour_heading": 250,
             "24hour_speed": 0,
             "24hour_vmg": 7.4,
-            "24hour_distance": 181,
-            "dtf": 121.8,
-            "dtl": 114.5,
-            "dtp": -0.3,
+            "24hour_distance": 180.6,
+            "dtf": 114.7,
+            "dtl": 110.7,
+            "dtp": 3.8,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -58565,19 +58733,27 @@
                     -59.1686
                 ],
                 [
-                    16.0682,
-                    -59.1686
+                    16.045900000000003,
+                    -59.233799999999995
+                ],
+                [
+                    16.018900000000002,
+                    -59.294799999999995
+                ],
+                [
+                    16.0189,
+                    -59.2948
                 ]
             ]
         },
         "903": {
-            "heading": 293,
+            "heading": 289,
             "rank": 53,
             "sail": 903,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 6.9,
+            "speed": 7.3,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -58586,13 +58762,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 238,
+            "24hour_heading": 240,
             "24hour_speed": 0,
-            "24hour_vmg": 6.4,
-            "24hour_distance": 157.7,
-            "dtf": 205.2,
-            "dtl": 197.9,
-            "dtp": -1,
+            "24hour_vmg": 6.3,
+            "24hour_distance": 155.6,
+            "dtf": 199,
+            "dtl": 195,
+            "dtp": 2.9,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -61812,19 +61988,27 @@
                     -57.74720000000001
                 ],
                 [
-                    16.597,
-                    -57.7472
+                    16.62020000000003,
+                    -57.80210000000001
+                ],
+                [
+                    16.64010000000003,
+                    -57.86210000000001
+                ],
+                [
+                    16.6401,
+                    -57.8621
                 ]
             ]
         },
         "914": {
-            "heading": 245,
+            "heading": 254,
             "rank": 43,
             "sail": 914,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 8.4,
+            "speed": 7.8,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -61833,13 +62017,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 271,
+            "24hour_heading": 272,
             "24hour_speed": 0,
-            "24hour_vmg": 7.4,
-            "24hour_distance": 177.5,
-            "dtf": 30,
-            "dtl": 22.8,
-            "dtp": 0.1,
+            "24hour_vmg": 7.5,
+            "24hour_distance": 179.3,
+            "dtf": 21.6,
+            "dtl": 17.6,
+            "dtp": 5.2,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -64971,16 +65155,40 @@
                     -60.774099999999926
                 ],
                 [
-                    16.2103,
-                    -60.9101
+                    16.25109999999999,
+                    -60.79579999999993
+                ],
+                [
+                    16.24069999999999,
+                    -60.81999999999993
+                ],
+                [
+                    16.23169999999999,
+                    -60.84319999999993
+                ],
+                [
+                    16.22289999999999,
+                    -60.87159999999993
+                ],
+                [
+                    16.21639999999999,
+                    -60.88859999999993
+                ],
+                [
+                    16.21029999999999,
+                    -60.910099999999936
+                ],
+                [
+                    16.203,
+                    -60.9339
                 ]
             ]
         },
         "958": {
-            "heading": 360,
+            "heading": 270,
             "rank": 29,
             "sail": 958,
-            "timestamp": 1699920005,
+            "timestamp": 1699934400,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
             "speed": 0,
@@ -64992,13 +65200,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 0,
+            "24hour_heading": 270,
             "24hour_speed": 0,
             "24hour_vmg": 0,
             "24hour_distance": 0,
             "dtf": 2086.3,
-            "dtl": 2077.4,
-            "dtp": -5.6,
+            "dtl": 2085.3,
+            "dtp": -7.9,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -65914,19 +66122,23 @@
                     -24.99120000000001
                 ],
                 [
+                    16.88680000000001,
+                    -24.99140000000001
+                ],
+                [
                     16.8868,
-                    -24.9912
+                    -24.9914
                 ]
             ]
         },
         "962": {
-            "heading": 273,
+            "heading": 279,
             "rank": 59,
             "sail": 962,
-            "timestamp": 1699930800,
+            "timestamp": 1699934400,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7.5,
+            "speed": 8.1,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -65935,13 +66147,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 270,
+            "24hour_heading": 271,
             "24hour_speed": 0,
             "24hour_vmg": 8.3,
-            "24hour_distance": 200.4,
-            "dtf": 1855.4,
-            "dtl": 1848.1,
-            "dtp": 0.4,
+            "24hour_distance": 200.5,
+            "dtf": 1847.3,
+            "dtl": 1843.3,
+            "dtp": 4.8,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -68409,19 +68621,23 @@
                     -28.9888
                 ],
                 [
-                    17.4624,
-                    -28.9888
+                    17.48420000000002,
+                    -29.128700000000002
+                ],
+                [
+                    17.4842,
+                    -29.1287
                 ]
             ]
         },
         "980": {
-            "heading": 299,
+            "heading": 305,
             "rank": 44,
             "sail": 980,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 8.8,
+            "speed": 8.7,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -68430,13 +68646,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 260,
+            "24hour_heading": 264,
             "24hour_speed": 0,
             "24hour_vmg": 7.3,
-            "24hour_distance": 177.3,
-            "dtf": 73.6,
-            "dtl": 66.4,
-            "dtp": 1.5,
+            "24hour_distance": 176.8,
+            "dtf": 65.4,
+            "dtl": 61.5,
+            "dtp": 4.9,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -71652,19 +71868,27 @@
                     -60.03700000000002
                 ],
                 [
-                    15.8857,
-                    -60.037
+                    15.925599999999983,
+                    -60.10160000000002
+                ],
+                [
+                    15.967299999999984,
+                    -60.16280000000002
+                ],
+                [
+                    15.9673,
+                    -60.1628
                 ]
             ]
         },
         "1006": {
-            "heading": 307,
+            "heading": 308,
             "rank": 50,
             "sail": 1006,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 9,
+            "speed": 8.9,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -71673,13 +71897,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 242,
+            "24hour_heading": 245,
             "24hour_speed": 0,
-            "24hour_vmg": 7.5,
-            "24hour_distance": 184.5,
-            "dtf": 134.4,
-            "dtl": 127.2,
-            "dtp": -1.3,
+            "24hour_vmg": 7.4,
+            "24hour_distance": 180.6,
+            "dtf": 127.2,
+            "dtl": 123.2,
+            "dtp": 4,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -74903,19 +75127,31 @@
                     -58.9526
                 ],
                 [
-                    16.0178,
-                    -58.9526
+                    16.021389999999972,
+                    -58.95699
+                ],
+                [
+                    16.06719999999997,
+                    -59.012299999999996
+                ],
+                [
+                    16.11279999999997,
+                    -59.0727
+                ],
+                [
+                    16.1128,
+                    -59.0727
                 ]
             ]
         },
         "1022": {
-            "heading": 301,
+            "heading": 298,
             "rank": 49,
             "sail": 1022,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 9.1,
+            "speed": 7.9,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -74924,13 +75160,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 267,
+            "24hour_heading": 268,
             "24hour_speed": 0,
             "24hour_vmg": 7.2,
-            "24hour_distance": 172.8,
-            "dtf": 132.7,
-            "dtl": 125.4,
-            "dtp": 0,
+            "24hour_distance": 172,
+            "dtf": 126.5,
+            "dtl": 122.5,
+            "dtp": 2.9,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -78154,3314 +78390,27 @@
                     -59.004099999999966
                 ],
                 [
-                    16.4914,
-                    -59.0041
-                ]
-            ]
-        },
-        "1029": {
-            "heading": 307,
-            "rank": 41,
-            "sail": 1029,
-            "timestamp": 1699932600,
-            "lat_dec": 46.275,
-            "lon_dec": 1.475,
-            "speed": 7.9,
-            "1hour_heading": 0,
-            "1hour_speed": 0,
-            "1hour_vmg": 0,
-            "1hour_distance": 0,
-            "lastreport_heading": 0,
-            "lastreport_speed": 0,
-            "lastreport_vmg": 0,
-            "lastreport_distance": 0,
-            "24hour_heading": 255,
-            "24hour_speed": 0,
-            "24hour_vmg": 7.6,
-            "24hour_distance": 182.7,
-            "dtf": 7.2,
-            "dtl": 0,
-            "dtp": 0,
-            "darksky_twd": "-",
-            "darksky_tws": "-",
-            "darksky_air": "-",
-            "finished": "true",
-            "total_time": "74d 03h 35min 46s",
-            "track": [
-                [
-                    28.6757,
-                    -17.7673
-                ],
-                [
-                    28.6802,
-                    -17.7581
-                ],
-                [
-                    28.6912,
-                    -17.7529
-                ],
-                [
-                    28.6913,
-                    -17.7456
-                ],
-                [
-                    28.6891,
-                    -17.7385
-                ],
-                [
-                    28.6601,
-                    -17.718899999999998
-                ],
-                [
-                    28.6412,
-                    -17.708299999999998
-                ],
-                [
-                    28.6184,
-                    -17.7004
-                ],
-                [
-                    28.5959,
-                    -17.6905
-                ],
-                [
-                    28.5745,
-                    -17.6797
-                ],
-                [
-                    28.556,
-                    -17.668400000000002
-                ],
-                [
-                    28.5316,
-                    -17.6645
-                ],
-                [
-                    28.501900000000003,
-                    -17.6656
-                ],
-                [
-                    28.479100000000003,
-                    -17.6689
-                ],
-                [
-                    28.454600000000003,
-                    -17.6765
-                ],
-                [
-                    28.435800000000004,
-                    -17.687
-                ],
-                [
-                    28.412500000000005,
-                    -17.697100000000002
-                ],
-                [
-                    28.390800000000006,
-                    -17.7024
-                ],
-                [
-                    28.362600000000008,
-                    -17.7102
-                ],
-                [
-                    28.334000000000007,
-                    -17.715600000000002
-                ],
-                [
-                    28.294700000000006,
-                    -17.726000000000003
-                ],
-                [
-                    28.262200000000007,
-                    -17.7343
-                ],
-                [
-                    28.236900000000006,
-                    -17.742900000000002
-                ],
-                [
-                    28.214800000000007,
-                    -17.753200000000003
-                ],
-                [
-                    28.197800000000008,
-                    -17.760300000000004
-                ],
-                [
-                    28.18510000000001,
-                    -17.766600000000004
-                ],
-                [
-                    28.176600000000008,
-                    -17.770400000000002
-                ],
-                [
-                    28.173600000000008,
-                    -17.771300000000004
-                ],
-                [
-                    28.16860000000001,
-                    -17.773400000000002
-                ],
-                [
-                    28.16380000000001,
-                    -17.772000000000002
-                ],
-                [
-                    28.14970000000001,
-                    -17.765300000000003
-                ],
-                [
-                    28.13070000000001,
-                    -17.759700000000002
-                ],
-                [
-                    28.11120000000001,
-                    -17.7602
-                ],
-                [
-                    28.08570000000001,
-                    -17.764
-                ],
-                [
-                    28.05430000000001,
-                    -17.767699999999998
-                ],
-                [
-                    28.021400000000007,
-                    -17.766899999999996
-                ],
-                [
-                    27.986300000000007,
-                    -17.763099999999998
-                ],
-                [
-                    27.957700000000006,
-                    -17.759199999999996
-                ],
-                [
-                    27.914400000000008,
-                    -17.756599999999995
-                ],
-                [
-                    27.88020000000001,
-                    -17.739299999999997
-                ],
-                [
-                    27.84540000000001,
-                    -17.729599999999998
-                ],
-                [
-                    27.808000000000007,
-                    -17.722199999999997
-                ],
-                [
-                    27.774800000000006,
-                    -17.720699999999997
-                ],
-                [
-                    27.738500000000005,
-                    -17.717299999999998
-                ],
-                [
-                    27.707700000000006,
-                    -17.712
-                ],
-                [
-                    27.688600000000005,
-                    -17.7479
-                ],
-                [
-                    27.671500000000005,
-                    -17.788400000000003
-                ],
-                [
-                    27.657300000000006,
-                    -17.831500000000002
-                ],
-                [
-                    27.645400000000006,
-                    -17.884400000000003
-                ],
-                [
-                    27.645400000000006,
-                    -17.922900000000002
-                ],
-                [
-                    27.632800000000007,
-                    -17.9511
-                ],
-                [
-                    27.630300000000005,
-                    -17.9906
-                ],
-                [
-                    27.640700000000006,
-                    -18.026600000000002
-                ],
-                [
-                    27.672400000000007,
-                    -18.058200000000003
-                ],
-                [
-                    27.652900000000006,
-                    -18.096100000000003
-                ],
-                [
-                    27.662700000000005,
-                    -18.123100000000004
-                ],
-                [
-                    27.699400000000004,
-                    -18.138500000000004
-                ],
-                [
-                    27.691100000000006,
-                    -18.175200000000004
-                ],
-                [
-                    27.684600000000007,
-                    -18.215300000000003
-                ],
-                [
-                    27.674500000000005,
-                    -18.2587
-                ],
-                [
-                    27.679100000000005,
-                    -18.2836
-                ],
-                [
-                    27.708200000000005,
-                    -18.2997
-                ],
-                [
-                    27.733200000000004,
-                    -18.3105
-                ],
-                [
-                    27.765200000000004,
-                    -18.323700000000002
-                ],
-                [
-                    27.793700000000005,
-                    -18.339900000000004
-                ],
-                [
-                    27.824000000000005,
-                    -18.358800000000002
-                ],
-                [
-                    27.851800000000004,
-                    -18.3774
-                ],
-                [
-                    27.875600000000006,
-                    -18.396
-                ],
-                [
-                    27.898100000000007,
-                    -18.4175
-                ],
-                [
-                    27.916600000000006,
-                    -18.4477
-                ],
-                [
-                    27.937200000000008,
-                    -18.4803
-                ],
-                [
-                    27.959200000000006,
-                    -18.5125
-                ],
-                [
-                    27.984900000000007,
-                    -18.5446
-                ],
-                [
-                    28.014300000000006,
-                    -18.572499999999998
-                ],
-                [
-                    28.037000000000006,
-                    -18.607899999999997
-                ],
-                [
-                    28.057400000000005,
-                    -18.646199999999997
-                ],
-                [
-                    28.069000000000006,
-                    -18.687799999999996
-                ],
-                [
-                    28.073600000000006,
-                    -18.733399999999996
-                ],
-                [
-                    28.083100000000005,
-                    -18.782299999999996
-                ],
-                [
-                    28.097700000000007,
-                    -18.831899999999997
-                ],
-                [
-                    28.116400000000006,
-                    -18.879099999999998
-                ],
-                [
-                    28.140900000000006,
-                    -18.921899999999997
-                ],
-                [
-                    28.160200000000007,
-                    -18.9655
-                ],
-                [
-                    28.179100000000005,
-                    -19.0107
-                ],
-                [
-                    28.197400000000005,
-                    -19.0576
-                ],
-                [
-                    28.215400000000006,
-                    -19.1055
-                ],
-                [
-                    28.229900000000008,
-                    -19.1547
-                ],
-                [
-                    28.24330000000001,
-                    -19.2061
-                ],
-                [
-                    28.257300000000008,
-                    -19.258
-                ],
-                [
-                    28.260500000000008,
-                    -19.311999999999998
-                ],
-                [
-                    28.262600000000006,
-                    -19.368399999999998
-                ],
-                [
-                    28.276800000000005,
-                    -19.4257
-                ],
-                [
-                    28.302400000000006,
-                    -19.4773
-                ],
-                [
-                    28.325100000000006,
-                    -19.5378
-                ],
-                [
-                    28.347600000000007,
-                    -19.6004
-                ],
-                [
-                    28.375800000000005,
-                    -19.6617
-                ],
-                [
-                    28.410500000000006,
-                    -19.7126
-                ],
-                [
-                    28.438000000000006,
-                    -19.773
-                ],
-                [
-                    28.470300000000005,
-                    -19.832
-                ],
-                [
-                    28.506500000000006,
-                    -19.8824
-                ],
-                [
-                    28.556400000000007,
-                    -19.91
-                ],
-                [
-                    28.602200000000007,
-                    -19.9479
-                ],
-                [
-                    28.641500000000008,
-                    -19.9911
-                ],
-                [
-                    28.685700000000008,
-                    -20.0239
-                ],
-                [
-                    28.721100000000007,
-                    -20.0255
-                ],
-                [
-                    28.739500000000007,
-                    -20.0886
-                ],
-                [
-                    28.744200000000006,
-                    -20.1632
-                ],
-                [
-                    28.753600000000006,
-                    -20.2351
-                ],
-                [
-                    28.768200000000007,
-                    -20.304199999999998
-                ],
-                [
-                    28.77820000000001,
-                    -20.379599999999996
-                ],
-                [
-                    28.766700000000007,
-                    -20.443999999999996
-                ],
-                [
-                    28.753300000000007,
-                    -20.510499999999997
-                ],
-                [
-                    28.752300000000005,
-                    -20.580299999999998
-                ],
-                [
-                    28.745200000000004,
-                    -20.639699999999998
-                ],
-                [
-                    28.730800000000006,
-                    -20.699299999999997
-                ],
-                [
-                    28.721800000000005,
-                    -20.754899999999996
-                ],
-                [
-                    28.709500000000006,
-                    -20.803699999999996
-                ],
-                [
-                    28.696400000000004,
-                    -20.848499999999994
-                ],
-                [
-                    28.689100000000003,
-                    -20.893099999999993
-                ],
-                [
-                    28.681100000000004,
-                    -20.936399999999992
-                ],
-                [
-                    28.671900000000004,
-                    -20.978599999999993
-                ],
-                [
-                    28.679200000000005,
-                    -21.016699999999993
-                ],
-                [
-                    28.696400000000004,
-                    -21.052899999999994
-                ],
-                [
-                    28.709100000000003,
-                    -21.076899999999995
-                ],
-                [
-                    28.719500000000004,
-                    -21.094099999999994
-                ],
-                [
-                    28.726500000000005,
-                    -21.109499999999993
-                ],
-                [
-                    28.733900000000006,
-                    -21.114799999999992
-                ],
-                [
-                    28.763100000000005,
-                    -21.131099999999993
-                ],
-                [
-                    28.793200000000006,
-                    -21.136799999999994
-                ],
-                [
-                    28.822000000000006,
-                    -21.138099999999994
-                ],
-                [
-                    28.848100000000006,
-                    -21.136599999999994
-                ],
-                [
-                    28.872600000000006,
-                    -21.126399999999993
-                ],
-                [
-                    28.890300000000007,
-                    -21.118899999999993
-                ],
-                [
-                    28.907800000000005,
-                    -21.112899999999993
-                ],
-                [
-                    28.919800000000006,
-                    -21.138999999999992
-                ],
-                [
-                    28.931200000000004,
-                    -21.170299999999994
-                ],
-                [
-                    28.944500000000005,
-                    -21.208799999999993
-                ],
-                [
-                    28.975800000000007,
-                    -21.24299999999999
-                ],
-                [
-                    29.012100000000007,
-                    -21.262299999999993
-                ],
-                [
-                    29.024600000000007,
-                    -21.263799999999993
-                ],
-                [
-                    29.046000000000006,
-                    -21.29319999999999
-                ],
-                [
-                    29.071800000000007,
-                    -21.315999999999992
-                ],
-                [
-                    29.09400000000001,
-                    -21.33299999999999
-                ],
-                [
-                    29.11640000000001,
-                    -21.345999999999993
-                ],
-                [
-                    29.13880000000001,
-                    -21.356299999999994
-                ],
-                [
-                    29.17130000000001,
-                    -21.364099999999993
-                ],
-                [
-                    29.21390000000001,
-                    -21.38009999999999
-                ],
-                [
-                    29.23630000000001,
-                    -21.41889999999999
-                ],
-                [
-                    29.26020000000001,
-                    -21.45259999999999
-                ],
-                [
-                    29.282400000000013,
-                    -21.47559999999999
-                ],
-                [
-                    29.299400000000013,
-                    -21.48899999999999
-                ],
-                [
-                    29.322500000000012,
-                    -21.50609999999999
-                ],
-                [
-                    29.340600000000013,
-                    -21.51849999999999
-                ],
-                [
-                    29.37310000000001,
-                    -21.535599999999988
-                ],
-                [
-                    29.40100000000001,
-                    -21.563499999999987
-                ],
-                [
-                    29.42890000000001,
-                    -21.591199999999986
-                ],
-                [
-                    29.40990000000001,
-                    -21.629099999999987
-                ],
-                [
-                    29.39340000000001,
-                    -21.669899999999988
-                ],
-                [
-                    29.37390000000001,
-                    -21.706299999999988
-                ],
-                [
-                    29.354800000000008,
-                    -21.748099999999987
-                ],
-                [
-                    29.343000000000007,
-                    -21.792599999999986
-                ],
-                [
-                    29.325800000000008,
-                    -21.840999999999987
-                ],
-                [
-                    29.309600000000007,
-                    -21.888399999999987
-                ],
-                [
-                    29.288700000000006,
-                    -21.934299999999986
-                ],
-                [
-                    29.271100000000004,
-                    -21.985199999999985
-                ],
-                [
-                    29.251500000000004,
-                    -22.034699999999983
-                ],
-                [
-                    29.232000000000003,
-                    -22.084599999999984
-                ],
-                [
-                    29.2188,
-                    -22.141299999999983
-                ],
-                [
-                    29.206000000000003,
-                    -22.200399999999984
-                ],
-                [
-                    29.190300000000004,
-                    -22.258499999999984
-                ],
-                [
-                    29.172500000000003,
-                    -22.327899999999985
-                ],
-                [
-                    29.164800000000003,
-                    -22.395499999999984
-                ],
-                [
-                    29.156500000000005,
-                    -22.460399999999986
-                ],
-                [
-                    29.147700000000004,
-                    -22.522999999999985
-                ],
-                [
-                    29.137300000000003,
-                    -22.580399999999987
-                ],
-                [
-                    29.135400000000004,
-                    -22.633499999999987
-                ],
-                [
-                    29.138000000000005,
-                    -22.688399999999987
-                ],
-                [
-                    29.140300000000007,
-                    -22.739899999999988
-                ],
-                [
-                    29.133300000000006,
-                    -22.790299999999988
-                ],
-                [
-                    29.125500000000006,
-                    -22.84159999999999
-                ],
-                [
-                    29.124700000000004,
-                    -22.89499999999999
-                ],
-                [
-                    29.129800000000003,
-                    -22.94849999999999
-                ],
-                [
-                    29.1351,
-                    -22.99739999999999
-                ],
-                [
-                    29.1231,
-                    -23.05019999999999
-                ],
-                [
-                    29.116400000000002,
-                    -23.10029999999999
-                ],
-                [
-                    29.105000000000004,
-                    -23.15369999999999
-                ],
-                [
-                    29.095800000000004,
-                    -23.20939999999999
-                ],
-                [
-                    29.082600000000003,
-                    -23.26429999999999
-                ],
-                [
-                    29.061700000000002,
-                    -23.317199999999993
-                ],
-                [
-                    29.041500000000003,
-                    -23.372899999999994
-                ],
-                [
-                    29.023500000000002,
-                    -23.428299999999993
-                ],
-                [
-                    29.0087,
-                    -23.485599999999994
-                ],
-                [
-                    28.9926,
-                    -23.539599999999993
-                ],
-                [
-                    28.9755,
-                    -23.592599999999994
-                ],
-                [
-                    28.9575,
-                    -23.641199999999994
-                ],
-                [
-                    28.941399999999998,
-                    -23.686499999999995
-                ],
-                [
-                    28.923499999999997,
-                    -23.731599999999997
-                ],
-                [
-                    28.908099999999997,
-                    -23.777899999999995
-                ],
-                [
-                    28.8817,
-                    -23.821999999999996
-                ],
-                [
-                    28.8539,
-                    -23.865899999999996
-                ],
-                [
-                    28.816399999999998,
-                    -23.913499999999996
-                ],
-                [
-                    28.769899999999996,
-                    -23.962299999999995
-                ],
-                [
-                    28.736999999999995,
-                    -24.020699999999994
-                ],
-                [
-                    28.697799999999994,
-                    -24.078299999999995
-                ],
-                [
-                    28.666999999999994,
-                    -24.132099999999994
-                ],
-                [
-                    28.644199999999994,
-                    -24.182599999999994
-                ],
-                [
-                    28.620799999999996,
-                    -24.229499999999994
-                ],
-                [
-                    28.597899999999996,
-                    -24.278999999999993
-                ],
-                [
-                    28.575199999999995,
-                    -24.325599999999994
-                ],
-                [
-                    28.545399999999994,
-                    -24.368699999999993
-                ],
-                [
-                    28.512299999999993,
-                    -24.408199999999994
-                ],
-                [
-                    28.479999999999993,
-                    -24.450899999999994
-                ],
-                [
-                    28.445699999999995,
-                    -24.495799999999992
-                ],
-                [
-                    28.410299999999996,
-                    -24.54519999999999
-                ],
-                [
-                    28.373899999999995,
-                    -24.59259999999999
-                ],
-                [
-                    28.335099999999997,
-                    -24.63749999999999
-                ],
-                [
-                    28.293999999999997,
-                    -24.687999999999988
-                ],
-                [
-                    28.251399999999997,
-                    -24.735399999999988
-                ],
-                [
-                    28.207099999999997,
-                    -24.777099999999987
-                ],
-                [
-                    28.1637,
-                    -24.816099999999988
-                ],
-                [
-                    28.1271,
-                    -24.856299999999987
-                ],
-                [
-                    28.0857,
-                    -24.899899999999988
-                ],
-                [
-                    28.041,
-                    -24.94069999999999
-                ],
-                [
-                    28.008,
-                    -25.00109999999999
-                ],
-                [
-                    27.976599999999998,
-                    -25.06029999999999
-                ],
-                [
-                    27.942199999999996,
-                    -25.11499999999999
-                ],
-                [
-                    27.907499999999995,
-                    -25.173999999999992
-                ],
-                [
-                    27.865499999999994,
-                    -25.229799999999994
-                ],
-                [
-                    27.823899999999995,
-                    -25.285699999999995
-                ],
-                [
-                    27.780899999999995,
-                    -25.343899999999994
-                ],
-                [
-                    27.737099999999995,
-                    -25.398799999999994
-                ],
-                [
-                    27.697899999999994,
-                    -25.452999999999996
-                ],
-                [
-                    27.653199999999995,
-                    -25.507199999999997
-                ],
-                [
-                    27.608299999999996,
-                    -25.562199999999997
-                ],
-                [
-                    27.558699999999995,
-                    -25.615899999999996
-                ],
-                [
-                    27.513599999999993,
-                    -25.665499999999998
-                ],
-                [
-                    27.461899999999993,
-                    -25.710399999999996
-                ],
-                [
-                    27.409599999999994,
-                    -25.752999999999997
-                ],
-                [
-                    27.358399999999993,
-                    -25.798699999999997
-                ],
-                [
-                    27.293899999999994,
-                    -25.833499999999997
-                ],
-                [
-                    27.234099999999994,
-                    -25.878899999999998
-                ],
-                [
-                    27.242899999999995,
-                    -25.948999999999998
-                ],
-                [
-                    27.268999999999995,
-                    -26.0248
-                ],
-                [
-                    27.292999999999996,
-                    -26.102999999999998
-                ],
-                [
-                    27.317499999999995,
-                    -26.176399999999997
-                ],
-                [
-                    27.336299999999994,
-                    -26.251199999999997
-                ],
-                [
-                    27.356399999999994,
-                    -26.3285
-                ],
-                [
-                    27.380399999999995,
-                    -26.4104
-                ],
-                [
-                    27.403999999999993,
-                    -26.4909
-                ],
-                [
-                    27.424099999999992,
-                    -26.5649
-                ],
-                [
-                    27.441999999999993,
-                    -26.6384
-                ],
-                [
-                    27.431299999999993,
-                    -26.6979
-                ],
-                [
-                    27.379299999999994,
-                    -26.7451
-                ],
-                [
-                    27.321999999999992,
-                    -26.7906
-                ],
-                [
-                    27.25849999999999,
-                    -26.8317
-                ],
-                [
-                    27.19119999999999,
-                    -26.8674
-                ],
-                [
-                    27.122199999999992,
-                    -26.901699999999998
-                ],
-                [
-                    27.058999999999994,
-                    -26.938899999999997
-                ],
-                [
-                    26.998099999999994,
-                    -26.980699999999995
-                ],
-                [
-                    26.932499999999994,
-                    -27.019499999999994
-                ],
-                [
-                    26.872999999999994,
-                    -27.072799999999994
-                ],
-                [
-                    26.814899999999994,
-                    -27.128699999999995
-                ],
-                [
-                    26.766499999999994,
-                    -27.182299999999994
-                ],
-                [
-                    26.716199999999994,
-                    -27.236699999999995
-                ],
-                [
-                    26.670699999999993,
-                    -27.292999999999996
-                ],
-                [
-                    26.624999999999993,
-                    -27.347599999999996
-                ],
-                [
-                    26.580999999999992,
-                    -27.406799999999997
-                ],
-                [
-                    26.534799999999994,
-                    -27.466999999999995
-                ],
-                [
-                    26.483499999999992,
-                    -27.524799999999995
-                ],
-                [
-                    26.43809999999999,
-                    -27.585499999999996
-                ],
-                [
-                    26.393399999999993,
-                    -27.643099999999997
-                ],
-                [
-                    26.341299999999993,
-                    -27.6973
-                ],
-                [
-                    26.28709999999999,
-                    -27.7553
-                ],
-                [
-                    26.24139999999999,
-                    -27.813
-                ],
-                [
-                    26.19289999999999,
-                    -27.869799999999998
-                ],
-                [
-                    26.14419999999999,
-                    -27.925099999999997
-                ],
-                [
-                    26.09259999999999,
-                    -27.979699999999998
-                ],
-                [
-                    26.04379999999999,
-                    -28.030499999999996
-                ],
-                [
-                    25.99929999999999,
-                    -28.087899999999998
-                ],
-                [
-                    25.95819999999999,
-                    -28.1438
-                ],
-                [
-                    25.91319999999999,
-                    -28.201999999999998
-                ],
-                [
-                    25.86299999999999,
-                    -28.2614
-                ],
-                [
-                    25.80989999999999,
-                    -28.3188
-                ],
-                [
-                    25.753699999999988,
-                    -28.3749
-                ],
-                [
-                    25.69659999999999,
-                    -28.424
-                ],
-                [
-                    25.63659999999999,
-                    -28.4649
-                ],
-                [
-                    25.57679999999999,
-                    -28.5054
-                ],
-                [
-                    25.518299999999993,
-                    -28.544700000000002
-                ],
-                [
-                    25.460499999999993,
-                    -28.578400000000002
-                ],
-                [
-                    25.402399999999993,
-                    -28.6139
-                ],
-                [
-                    25.344399999999993,
-                    -28.649800000000003
-                ],
-                [
-                    25.289099999999994,
-                    -28.6899
-                ],
-                [
-                    25.228899999999996,
-                    -28.7238
-                ],
-                [
-                    25.173599999999997,
-                    -28.7527
-                ],
-                [
-                    25.1608,
-                    -28.8169
-                ],
-                [
-                    25.1653,
-                    -28.9083
-                ],
-                [
-                    25.1723,
-                    -28.9933
-                ],
-                [
-                    25.1738,
-                    -29.0726
-                ],
-                [
-                    25.174,
-                    -29.150100000000002
-                ],
-                [
-                    25.179299999999998,
-                    -29.227500000000003
-                ],
-                [
-                    25.188499999999998,
-                    -29.304000000000002
-                ],
-                [
-                    25.197899999999997,
-                    -29.374100000000002
-                ],
-                [
-                    25.207299999999996,
-                    -29.4537
-                ],
-                [
-                    25.214199999999998,
-                    -29.532500000000002
-                ],
-                [
-                    25.214599999999997,
-                    -29.620200000000004
-                ],
-                [
-                    25.207499999999996,
-                    -29.705800000000004
-                ],
-                [
-                    25.199499999999997,
-                    -29.785100000000003
-                ],
-                [
-                    25.188899999999997,
-                    -29.861000000000004
-                ],
-                [
-                    25.176499999999997,
-                    -29.937000000000005
-                ],
-                [
-                    25.165799999999997,
-                    -30.013900000000003
-                ],
-                [
-                    25.1577,
-                    -30.093100000000003
-                ],
-                [
-                    25.153799999999997,
-                    -30.171000000000003
-                ],
-                [
-                    25.15,
-                    -30.250500000000002
-                ],
-                [
-                    25.147499999999997,
-                    -30.3332
-                ],
-                [
-                    25.1531,
-                    -30.413700000000002
-                ],
-                [
-                    25.165599999999998,
-                    -30.489900000000002
-                ],
-                [
-                    25.1744,
-                    -30.570400000000003
-                ],
-                [
-                    25.1846,
-                    -30.642400000000002
-                ],
-                [
-                    25.2014,
-                    -30.7131
-                ],
-                [
-                    25.211299999999998,
-                    -30.7832
-                ],
-                [
-                    25.2352,
-                    -30.8582
-                ],
-                [
-                    25.2568,
-                    -30.9307
-                ],
-                [
-                    25.2749,
-                    -31.005100000000002
-                ],
-                [
-                    25.2929,
-                    -31.077600000000004
-                ],
-                [
-                    25.3116,
-                    -31.145400000000002
-                ],
-                [
-                    25.328599999999998,
-                    -31.2143
-                ],
-                [
-                    25.338399999999996,
-                    -31.2814
-                ],
-                [
-                    25.291299999999996,
-                    -31.323400000000003
-                ],
-                [
-                    25.243999999999996,
-                    -31.366300000000003
-                ],
-                [
-                    25.194099999999995,
-                    -31.4063
-                ],
-                [
-                    25.136999999999997,
-                    -31.4402
-                ],
-                [
-                    25.079499999999996,
-                    -31.473000000000003
-                ],
-                [
-                    25.027399999999997,
-                    -31.505200000000002
-                ],
-                [
-                    25.034199999999995,
-                    -31.579600000000003
-                ],
-                [
-                    25.041299999999996,
-                    -31.6578
-                ],
-                [
-                    25.041299999999996,
-                    -31.735300000000002
-                ],
-                [
-                    25.043699999999998,
-                    -31.808400000000002
-                ],
-                [
-                    25.043799999999997,
-                    -31.882700000000003
-                ],
-                [
-                    25.041499999999996,
-                    -31.958900000000003
-                ],
-                [
-                    25.037299999999995,
-                    -32.033100000000005
-                ],
-                [
-                    25.029799999999994,
-                    -32.103100000000005
-                ],
-                [
-                    25.031399999999994,
-                    -32.175000000000004
-                ],
-                [
-                    25.027799999999996,
-                    -32.241600000000005
-                ],
-                [
-                    25.027199999999997,
-                    -32.30570000000001
-                ],
-                [
-                    25.023999999999997,
-                    -32.37170000000001
-                ],
-                [
-                    25.020099999999996,
-                    -32.43630000000001
-                ],
-                [
-                    25.008499999999994,
-                    -32.49850000000001
-                ],
-                [
-                    24.998899999999995,
-                    -32.56400000000001
-                ],
-                [
-                    24.994099999999996,
-                    -32.630700000000004
-                ],
-                [
-                    24.987399999999997,
-                    -32.694500000000005
-                ],
-                [
-                    24.981999999999996,
-                    -32.767300000000006
-                ],
-                [
-                    24.979599999999994,
-                    -32.838100000000004
-                ],
-                [
-                    24.970299999999995,
-                    -32.907500000000006
-                ],
-                [
-                    24.964299999999994,
-                    -32.97840000000001
-                ],
-                [
-                    24.954999999999995,
-                    -33.04570000000001
-                ],
-                [
-                    24.942599999999995,
-                    -33.11970000000001
-                ],
-                [
-                    24.931999999999995,
-                    -33.19100000000001
-                ],
-                [
-                    24.911899999999996,
-                    -33.25780000000001
-                ],
-                [
-                    24.889699999999994,
-                    -33.32710000000001
-                ],
-                [
-                    24.865899999999993,
-                    -33.39560000000001
-                ],
-                [
-                    24.842299999999994,
-                    -33.45900000000001
-                ],
-                [
-                    24.822399999999995,
-                    -33.52450000000001
-                ],
-                [
-                    24.804999999999996,
-                    -33.59230000000001
-                ],
-                [
-                    24.791199999999996,
-                    -33.65790000000001
-                ],
-                [
-                    24.780199999999997,
-                    -33.72100000000001
-                ],
-                [
-                    24.769699999999997,
-                    -33.78250000000001
-                ],
-                [
-                    24.756699999999995,
-                    -33.84220000000001
-                ],
-                [
-                    24.743299999999994,
-                    -33.90120000000001
-                ],
-                [
-                    24.733399999999996,
-                    -33.96650000000001
-                ],
-                [
-                    24.723099999999995,
-                    -34.03080000000001
-                ],
-                [
-                    24.708599999999993,
-                    -34.09130000000001
-                ],
-                [
-                    24.696199999999994,
-                    -34.15740000000001
-                ],
-                [
-                    24.686399999999995,
-                    -34.22400000000001
-                ],
-                [
-                    24.681399999999996,
-                    -34.29590000000001
-                ],
-                [
-                    24.677199999999996,
-                    -34.36750000000001
-                ],
-                [
-                    24.671099999999996,
-                    -34.44270000000001
-                ],
-                [
-                    24.668399999999995,
-                    -34.52230000000001
-                ],
-                [
-                    24.667399999999994,
-                    -34.60230000000001
-                ],
-                [
-                    24.669099999999993,
-                    -34.68280000000001
-                ],
-                [
-                    24.672399999999993,
-                    -34.775200000000005
-                ],
-                [
-                    24.688699999999994,
-                    -34.86070000000001
-                ],
-                [
-                    24.705099999999995,
-                    -34.933600000000006
-                ],
-                [
-                    24.719699999999996,
-                    -35.010200000000005
-                ],
-                [
-                    24.744199999999996,
-                    -35.0936
-                ],
-                [
-                    24.767499999999995,
-                    -35.180600000000005
-                ],
-                [
-                    24.791399999999996,
-                    -35.245900000000006
-                ],
-                [
-                    24.823399999999996,
-                    -35.29560000000001
-                ],
-                [
-                    24.807399999999998,
-                    -35.36120000000001
-                ],
-                [
-                    24.781799999999997,
-                    -35.43030000000001
-                ],
-                [
-                    24.743699999999997,
-                    -35.48860000000001
-                ],
-                [
-                    24.706899999999997,
-                    -35.54210000000001
-                ],
-                [
-                    24.6424,
-                    -35.58040000000001
-                ],
-                [
-                    24.6297,
-                    -35.632300000000015
-                ],
-                [
-                    24.589,
-                    -35.68250000000001
-                ],
-                [
-                    24.555999999999997,
-                    -35.72440000000001
-                ],
-                [
-                    24.564299999999996,
-                    -35.79080000000001
-                ],
-                [
-                    24.579999999999995,
-                    -35.86290000000001
-                ],
-                [
-                    24.589899999999993,
-                    -35.95200000000001
-                ],
-                [
-                    24.602099999999993,
-                    -36.03690000000001
-                ],
-                [
-                    24.618299999999994,
-                    -36.12450000000001
-                ],
-                [
-                    24.634999999999994,
-                    -36.20980000000001
-                ],
-                [
-                    24.656699999999994,
-                    -36.29430000000001
-                ],
-                [
-                    24.674099999999992,
-                    -36.360800000000005
-                ],
-                [
-                    24.696699999999993,
-                    -36.432100000000005
-                ],
-                [
-                    24.718399999999992,
-                    -36.504000000000005
-                ],
-                [
-                    24.736399999999993,
-                    -36.573100000000004
-                ],
-                [
-                    24.749699999999994,
-                    -36.650400000000005
-                ],
-                [
-                    24.761699999999994,
-                    -36.73500000000001
-                ],
-                [
-                    24.770899999999994,
-                    -36.81450000000001
-                ],
-                [
-                    24.781099999999995,
-                    -36.89370000000001
-                ],
-                [
-                    24.788699999999995,
-                    -36.97350000000001
-                ],
-                [
-                    24.800399999999996,
-                    -37.05300000000001
-                ],
-                [
-                    24.816399999999994,
-                    -37.11520000000001
-                ],
-                [
-                    24.831799999999994,
-                    -37.17400000000001
-                ],
-                [
-                    24.853899999999992,
-                    -37.23060000000001
-                ],
-                [
-                    24.862599999999993,
-                    -37.29130000000001
-                ],
-                [
-                    24.844499999999993,
-                    -37.343900000000005
-                ],
-                [
-                    24.817399999999992,
-                    -37.39600000000001
-                ],
-                [
-                    24.783799999999992,
-                    -37.45280000000001
-                ],
-                [
-                    24.752899999999993,
-                    -37.51880000000001
-                ],
-                [
-                    24.717399999999994,
-                    -37.58580000000001
-                ],
-                [
-                    24.678999999999995,
-                    -37.64720000000001
-                ],
-                [
-                    24.642499999999995,
-                    -37.707400000000014
-                ],
-                [
-                    24.614099999999993,
-                    -37.770800000000015
-                ],
-                [
-                    24.589099999999995,
-                    -37.835000000000015
-                ],
-                [
-                    24.560099999999995,
-                    -37.89950000000002
-                ],
-                [
-                    24.529999999999994,
-                    -37.95930000000002
-                ],
-                [
-                    24.495199999999993,
-                    -38.01930000000002
-                ],
-                [
-                    24.458399999999994,
-                    -38.077800000000025
-                ],
-                [
-                    24.416499999999996,
-                    -38.13510000000002
-                ],
-                [
-                    24.374799999999997,
-                    -38.19450000000002
-                ],
-                [
-                    24.335899999999995,
-                    -38.25860000000002
-                ],
-                [
-                    24.310099999999995,
-                    -38.326300000000025
-                ],
-                [
-                    24.284999999999997,
-                    -38.392000000000024
-                ],
-                [
-                    24.255899999999997,
-                    -38.45660000000002
-                ],
-                [
-                    24.216099999999997,
-                    -38.51930000000002
-                ],
-                [
-                    24.183799999999998,
-                    -38.58450000000002
-                ],
-                [
-                    24.148799999999998,
-                    -38.64990000000002
-                ],
-                [
-                    24.115,
-                    -38.714700000000015
-                ],
-                [
-                    24.077099999999998,
-                    -38.77640000000002
-                ],
-                [
-                    24.037,
-                    -38.835600000000014
-                ],
-                [
-                    23.9976,
-                    -38.89850000000001
-                ],
-                [
-                    23.964299999999998,
-                    -38.96420000000001
-                ],
-                [
-                    23.933699999999998,
-                    -39.03280000000001
-                ],
-                [
-                    23.9077,
-                    -39.10500000000001
-                ],
-                [
-                    23.8736,
-                    -39.16950000000001
-                ],
-                [
-                    23.8443,
-                    -39.23360000000002
-                ],
-                [
-                    23.8184,
-                    -39.30470000000002
-                ],
-                [
-                    23.796400000000002,
-                    -39.37200000000002
-                ],
-                [
-                    23.7757,
-                    -39.43980000000002
-                ],
-                [
-                    23.756,
-                    -39.508200000000016
-                ],
-                [
-                    23.7333,
-                    -39.57980000000001
-                ],
-                [
-                    23.7148,
-                    -39.654100000000014
-                ],
-                [
-                    23.694,
-                    -39.731000000000016
-                ],
-                [
-                    23.6783,
-                    -39.80920000000002
-                ],
-                [
-                    23.6678,
-                    -39.880800000000015
-                ],
-                [
-                    23.6564,
-                    -39.953600000000016
-                ],
-                [
-                    23.645200000000003,
-                    -40.02690000000002
-                ],
-                [
-                    23.627900000000004,
-                    -40.10140000000002
-                ],
-                [
-                    23.607000000000003,
-                    -40.17940000000002
-                ],
-                [
-                    23.581300000000002,
-                    -40.25220000000002
-                ],
-                [
-                    23.555100000000003,
-                    -40.32770000000002
-                ],
-                [
-                    23.529500000000002,
-                    -40.39700000000002
-                ],
-                [
-                    23.507400000000004,
-                    -40.46450000000002
-                ],
-                [
-                    23.477000000000004,
-                    -40.53210000000002
-                ],
-                [
-                    23.454100000000004,
-                    -40.607100000000024
-                ],
-                [
-                    23.434500000000003,
-                    -40.68240000000002
-                ],
-                [
-                    23.414500000000004,
-                    -40.755700000000026
-                ],
-                [
-                    23.396500000000003,
-                    -40.82640000000003
-                ],
-                [
-                    23.374100000000002,
-                    -40.895900000000026
-                ],
-                [
-                    23.3532,
-                    -40.95870000000003
-                ],
-                [
-                    23.332900000000002,
-                    -41.02310000000003
-                ],
-                [
-                    23.3198,
-                    -41.093900000000026
-                ],
-                [
-                    23.3043,
-                    -41.158700000000024
-                ],
-                [
-                    23.2851,
-                    -41.22170000000003
-                ],
-                [
-                    23.2612,
-                    -41.29090000000003
-                ],
-                [
-                    23.238799999999998,
-                    -41.35940000000003
-                ],
-                [
-                    23.219199999999997,
-                    -41.42440000000003
-                ],
-                [
-                    23.1957,
-                    -41.492000000000026
-                ],
-                [
-                    23.1706,
-                    -41.56040000000002
-                ],
-                [
-                    23.1489,
-                    -41.63040000000002
-                ],
-                [
-                    23.1266,
-                    -41.701500000000024
-                ],
-                [
-                    23.1048,
-                    -41.76500000000002
-                ],
-                [
-                    23.0728,
-                    -41.83770000000002
-                ],
-                [
-                    23.0376,
-                    -41.91710000000002
-                ],
-                [
-                    23.001900000000003,
-                    -42.00130000000002
-                ],
-                [
-                    22.976900000000004,
-                    -42.073100000000025
-                ],
-                [
-                    22.949100000000005,
-                    -42.145700000000026
-                ],
-                [
-                    22.917600000000004,
-                    -42.21430000000002
-                ],
-                [
-                    22.891200000000005,
-                    -42.28320000000002
-                ],
-                [
-                    22.868700000000004,
-                    -42.35400000000002
-                ],
-                [
-                    22.845500000000005,
-                    -42.42220000000002
-                ],
-                [
-                    22.808800000000005,
-                    -42.48600000000002
-                ],
-                [
-                    22.776700000000005,
-                    -42.55280000000002
-                ],
-                [
-                    22.749500000000005,
-                    -42.61850000000002
-                ],
-                [
-                    22.717300000000005,
-                    -42.68940000000002
-                ],
-                [
-                    22.687400000000004,
-                    -42.75620000000002
-                ],
-                [
-                    22.654200000000003,
-                    -42.82120000000002
-                ],
-                [
-                    22.623300000000004,
-                    -42.89100000000002
-                ],
-                [
-                    22.595600000000005,
-                    -42.95600000000002
-                ],
-                [
-                    22.567800000000005,
-                    -43.02320000000002
-                ],
-                [
-                    22.541700000000006,
-                    -43.08730000000002
-                ],
-                [
-                    22.522800000000007,
-                    -43.15330000000002
-                ],
-                [
-                    22.50250000000001,
-                    -43.224600000000024
-                ],
-                [
-                    22.48120000000001,
-                    -43.291000000000025
-                ],
-                [
-                    22.46090000000001,
-                    -43.35170000000002
-                ],
-                [
-                    22.44210000000001,
-                    -43.41630000000002
-                ],
-                [
-                    22.42060000000001,
-                    -43.48180000000002
-                ],
-                [
-                    22.400100000000013,
-                    -43.55260000000002
-                ],
-                [
-                    22.37930000000001,
-                    -43.62410000000002
-                ],
-                [
-                    22.362300000000012,
-                    -43.69850000000002
-                ],
-                [
-                    22.347900000000013,
-                    -43.772900000000014
-                ],
-                [
-                    22.340100000000014,
-                    -43.842500000000015
-                ],
-                [
-                    22.329500000000014,
-                    -43.90360000000002
-                ],
-                [
-                    22.306000000000015,
-                    -43.96980000000002
-                ],
-                [
-                    22.288400000000014,
-                    -44.03680000000002
-                ],
-                [
-                    22.273900000000012,
-                    -44.10590000000002
-                ],
-                [
-                    22.24700000000001,
-                    -44.17480000000002
-                ],
-                [
-                    22.24570000000001,
-                    -44.23280000000002
-                ],
-                [
-                    22.21950000000001,
-                    -44.30040000000002
-                ],
-                [
-                    22.19560000000001,
-                    -44.36420000000002
-                ],
-                [
-                    22.17440000000001,
-                    -44.42550000000002
-                ],
-                [
-                    22.14540000000001,
-                    -44.48250000000002
-                ],
-                [
-                    22.114100000000008,
-                    -44.53830000000002
-                ],
-                [
-                    22.08320000000001,
-                    -44.59220000000002
-                ],
-                [
-                    22.051800000000007,
-                    -44.64800000000002
-                ],
-                [
-                    22.012000000000008,
-                    -44.70430000000002
-                ],
-                [
-                    21.98110000000001,
-                    -44.76540000000002
-                ],
-                [
-                    21.951200000000007,
-                    -44.82280000000002
-                ],
-                [
-                    21.915700000000008,
-                    -44.87590000000002
-                ],
-                [
-                    21.87550000000001,
-                    -44.928200000000025
-                ],
-                [
-                    21.84950000000001,
-                    -44.98270000000002
-                ],
-                [
-                    21.82740000000001,
-                    -45.042300000000026
-                ],
-                [
-                    21.80770000000001,
-                    -45.11000000000003
-                ],
-                [
-                    21.78500000000001,
-                    -45.18130000000003
-                ],
-                [
-                    21.77140000000001,
-                    -45.25240000000003
-                ],
-                [
-                    21.76450000000001,
-                    -45.32410000000003
-                ],
-                [
-                    21.758700000000008,
-                    -45.38940000000003
-                ],
-                [
-                    21.74920000000001,
-                    -45.45590000000003
-                ],
-                [
-                    21.71370000000001,
-                    -45.51120000000003
-                ],
-                [
-                    21.66940000000001,
-                    -45.56140000000003
-                ],
-                [
-                    21.62630000000001,
-                    -45.60640000000003
-                ],
-                [
-                    21.583200000000012,
-                    -45.65180000000003
-                ],
-                [
-                    21.53960000000001,
-                    -45.69340000000003
-                ],
-                [
-                    21.50120000000001,
-                    -45.73770000000003
-                ],
-                [
-                    21.457800000000013,
-                    -45.78240000000003
-                ],
-                [
-                    21.412200000000013,
-                    -45.82610000000003
-                ],
-                [
-                    21.36700000000001,
-                    -45.869000000000035
-                ],
-                [
-                    21.334600000000012,
-                    -45.91830000000004
-                ],
-                [
-                    21.31240000000001,
-                    -45.97630000000004
-                ],
-                [
-                    21.293700000000012,
-                    -46.030800000000035
-                ],
-                [
-                    21.27400000000001,
-                    -46.087500000000034
-                ],
-                [
-                    21.25340000000001,
-                    -46.14460000000003
-                ],
-                [
-                    21.22720000000001,
-                    -46.20090000000003
-                ],
-                [
-                    21.19790000000001,
-                    -46.25950000000003
-                ],
-                [
-                    21.173000000000012,
-                    -46.32240000000003
-                ],
-                [
-                    21.151400000000013,
-                    -46.38430000000003
-                ],
-                [
-                    21.134900000000012,
-                    -46.44440000000003
-                ],
-                [
-                    21.132100000000012,
-                    -46.48990000000003
-                ],
-                [
-                    21.10320000000001,
-                    -46.53570000000003
-                ],
-                [
-                    21.07330000000001,
-                    -46.59830000000003
-                ],
-                [
-                    21.04700000000001,
-                    -46.66180000000003
-                ],
-                [
-                    21.01990000000001,
-                    -46.72010000000003
-                ],
-                [
-                    21.00210000000001,
-                    -46.76730000000003
-                ],
-                [
-                    20.98390000000001,
-                    -46.83140000000003
-                ],
-                [
-                    20.975400000000008,
-                    -46.895500000000034
-                ],
-                [
-                    20.96110000000001,
-                    -46.957400000000035
-                ],
-                [
-                    20.94760000000001,
-                    -47.015600000000035
-                ],
-                [
-                    20.942200000000007,
-                    -47.071300000000036
-                ],
-                [
-                    20.930100000000007,
-                    -47.13260000000004
-                ],
-                [
-                    20.918500000000005,
-                    -47.19210000000004
-                ],
-                [
-                    20.903000000000006,
-                    -47.24740000000004
-                ],
-                [
-                    20.887200000000007,
-                    -47.29880000000004
-                ],
-                [
-                    20.860300000000006,
-                    -47.34900000000004
-                ],
-                [
-                    20.838200000000008,
-                    -47.39860000000004
-                ],
-                [
-                    20.821700000000007,
-                    -47.449700000000036
-                ],
-                [
-                    20.79060000000001,
-                    -47.496100000000034
-                ],
-                [
-                    20.76440000000001,
-                    -47.54680000000003
-                ],
-                [
-                    20.74270000000001,
-                    -47.596500000000034
-                ],
-                [
-                    20.71450000000001,
-                    -47.64590000000003
-                ],
-                [
-                    20.68570000000001,
-                    -47.691100000000034
-                ],
-                [
-                    20.65380000000001,
-                    -47.73150000000003
-                ],
-                [
-                    20.621200000000012,
-                    -47.76630000000003
-                ],
-                [
-                    20.587400000000013,
-                    -47.80700000000003
-                ],
-                [
-                    20.556600000000014,
-                    -47.84710000000003
-                ],
-                [
-                    20.524300000000014,
-                    -47.88820000000003
-                ],
-                [
-                    20.491900000000015,
-                    -47.92540000000003
-                ],
-                [
-                    20.459700000000016,
-                    -47.96390000000003
-                ],
-                [
-                    20.422200000000014,
-                    -47.99830000000003
-                ],
-                [
-                    20.393600000000013,
-                    -48.04070000000003
-                ],
-                [
-                    20.363700000000012,
-                    -48.08140000000003
-                ],
-                [
-                    20.33830000000001,
-                    -48.12840000000003
-                ],
-                [
-                    20.31660000000001,
-                    -48.17640000000003
-                ],
-                [
-                    20.29380000000001,
-                    -48.22080000000003
-                ],
-                [
-                    20.27470000000001,
-                    -48.268800000000034
-                ],
-                [
-                    20.25520000000001,
-                    -48.320200000000035
-                ],
-                [
-                    20.23870000000001,
-                    -48.37510000000004
-                ],
-                [
-                    20.22470000000001,
-                    -48.42800000000004
-                ],
-                [
-                    20.20630000000001,
-                    -48.48260000000004
-                ],
-                [
-                    20.18780000000001,
-                    -48.53210000000004
-                ],
-                [
-                    20.17400000000001,
-                    -48.58620000000004
-                ],
-                [
-                    20.15910000000001,
-                    -48.64300000000004
-                ],
-                [
-                    20.14270000000001,
-                    -48.70220000000004
-                ],
-                [
-                    20.123600000000007,
-                    -48.75980000000004
-                ],
-                [
-                    20.104500000000005,
-                    -48.81680000000004
-                ],
-                [
-                    20.081500000000005,
-                    -48.87110000000004
-                ],
-                [
-                    20.060600000000004,
-                    -48.92610000000004
-                ],
-                [
-                    20.043200000000006,
-                    -48.98310000000004
-                ],
-                [
-                    20.027200000000008,
-                    -49.040100000000045
-                ],
-                [
-                    20.00690000000001,
-                    -49.097000000000044
-                ],
-                [
-                    19.98330000000001,
-                    -49.14850000000004
-                ],
-                [
-                    19.95720000000001,
-                    -49.20070000000004
-                ],
-                [
-                    19.924600000000012,
-                    -49.25210000000004
-                ],
-                [
-                    19.893400000000014,
-                    -49.30610000000004
-                ],
-                [
-                    19.859900000000014,
-                    -49.35980000000004
-                ],
-                [
-                    19.826000000000015,
-                    -49.411700000000046
-                ],
-                [
-                    19.794100000000014,
-                    -49.464100000000045
-                ],
-                [
-                    19.773400000000013,
-                    -49.523000000000046
-                ],
-                [
-                    19.756800000000013,
-                    -49.58340000000005
-                ],
-                [
-                    19.739900000000013,
-                    -49.63970000000005
-                ],
-                [
-                    19.718100000000014,
-                    -49.693800000000046
-                ],
-                [
-                    19.690300000000015,
-                    -49.747700000000044
-                ],
-                [
-                    19.659600000000015,
-                    -49.79770000000004
-                ],
-                [
-                    19.625400000000017,
-                    -49.846800000000044
-                ],
-                [
-                    19.589100000000016,
-                    -49.895600000000044
-                ],
-                [
-                    19.555600000000016,
-                    -49.944200000000045
-                ],
-                [
-                    19.522600000000015,
-                    -49.99570000000004
-                ],
-                [
-                    19.486600000000013,
-                    -50.04420000000004
-                ],
-                [
-                    19.449500000000015,
-                    -50.09130000000004
-                ],
-                [
-                    19.414200000000015,
-                    -50.141500000000036
-                ],
-                [
-                    19.374300000000016,
-                    -50.19190000000004
-                ],
-                [
-                    19.328300000000016,
-                    -50.24100000000004
-                ],
-                [
-                    19.283800000000017,
-                    -50.28960000000004
-                ],
-                [
-                    19.237200000000016,
-                    -50.338000000000044
-                ],
-                [
-                    19.191000000000017,
-                    -50.384900000000044
-                ],
-                [
-                    19.144000000000016,
-                    -50.43060000000004
-                ],
-                [
-                    19.095000000000017,
-                    -50.47540000000004
-                ],
-                [
-                    19.043900000000015,
-                    -50.52030000000004
-                ],
-                [
-                    18.988300000000017,
-                    -50.56520000000004
-                ],
-                [
-                    18.932600000000015,
-                    -50.60860000000004
-                ],
-                [
-                    18.879100000000015,
-                    -50.65440000000004
-                ],
-                [
-                    18.826600000000017,
-                    -50.700100000000035
-                ],
-                [
-                    18.770400000000016,
-                    -50.746600000000036
-                ],
-                [
-                    18.716700000000017,
-                    -50.79760000000004
-                ],
-                [
-                    18.661500000000018,
-                    -50.84500000000004
-                ],
-                [
-                    18.608200000000018,
-                    -50.89180000000004
-                ],
-                [
-                    18.55460000000002,
-                    -50.94130000000004
-                ],
-                [
-                    18.48740000000002,
-                    -50.99650000000004
-                ],
-                [
-                    18.43960000000002,
-                    -51.04610000000004
-                ],
-                [
-                    18.38530000000002,
-                    -51.09670000000004
-                ],
-                [
-                    18.334100000000017,
-                    -51.14800000000004
-                ],
-                [
-                    18.283800000000017,
-                    -51.20970000000004
-                ],
-                [
-                    18.237700000000018,
-                    -51.27820000000004
-                ],
-                [
-                    18.189500000000017,
-                    -51.34200000000004
-                ],
-                [
-                    18.142600000000016,
-                    -51.403100000000045
-                ],
-                [
-                    18.105500000000017,
-                    -51.46610000000005
-                ],
-                [
-                    18.06360000000002,
-                    -51.53080000000005
-                ],
-                [
-                    18.02390000000002,
-                    -51.59460000000005
-                ],
-                [
-                    17.98410000000002,
-                    -51.65650000000005
-                ],
-                [
-                    17.94490000000002,
-                    -51.71470000000005
-                ],
-                [
-                    17.89560000000002,
-                    -51.77110000000005
-                ],
-                [
-                    17.85150000000002,
-                    -51.828600000000044
-                ],
-                [
-                    17.80600000000002,
-                    -51.88310000000004
-                ],
-                [
-                    17.75680000000002,
-                    -51.93630000000004
-                ],
-                [
-                    17.70320000000002,
-                    -51.98790000000004
-                ],
-                [
-                    17.65100000000002,
-                    -52.04150000000004
-                ],
-                [
-                    17.598700000000022,
-                    -52.092500000000044
-                ],
-                [
-                    17.53840000000002,
-                    -52.13970000000004
-                ],
-                [
-                    17.47620000000002,
-                    -52.18690000000004
-                ],
-                [
-                    17.42050000000002,
-                    -52.242500000000035
-                ],
-                [
-                    17.37280000000002,
-                    -52.299600000000034
-                ],
-                [
-                    17.304800000000018,
-                    -52.35600000000003
-                ],
-                [
-                    17.23710000000002,
-                    -52.41700000000003
-                ],
-                [
-                    17.17170000000002,
-                    -52.48170000000003
-                ],
-                [
-                    17.11630000000002,
-                    -52.54520000000003
-                ],
-                [
-                    17.05810000000002,
-                    -52.61100000000003
-                ],
-                [
-                    17.001200000000022,
-                    -52.672900000000034
-                ],
-                [
-                    16.942700000000023,
-                    -52.72870000000003
-                ],
-                [
-                    16.891200000000023,
-                    -52.79080000000003
-                ],
-                [
-                    16.838100000000022,
-                    -52.85730000000003
-                ],
-                [
-                    16.787600000000023,
-                    -52.92520000000003
-                ],
-                [
-                    16.732900000000022,
-                    -52.987800000000036
-                ],
-                [
-                    16.685300000000023,
-                    -53.05170000000003
-                ],
-                [
-                    16.640900000000023,
-                    -53.11240000000003
-                ],
-                [
-                    16.598000000000024,
-                    -53.171800000000026
-                ],
-                [
-                    16.553400000000025,
-                    -53.230600000000024
-                ],
-                [
-                    16.512400000000024,
-                    -53.29000000000002
-                ],
-                [
-                    16.469700000000024,
-                    -53.34880000000002
-                ],
-                [
-                    16.424700000000023,
-                    -53.40870000000002
-                ],
-                [
-                    16.407900000000023,
-                    -53.47170000000002
-                ],
-                [
-                    16.436400000000024,
-                    -53.54990000000002
-                ],
-                [
-                    16.463500000000025,
-                    -53.62890000000002
-                ],
-                [
-                    16.488500000000023,
-                    -53.709700000000026
-                ],
-                [
-                    16.503600000000024,
-                    -53.784400000000026
-                ],
-                [
-                    16.517600000000023,
-                    -53.86090000000003
-                ],
-                [
-                    16.531100000000023,
-                    -53.93620000000003
-                ],
-                [
-                    16.543700000000022,
-                    -54.00660000000003
-                ],
-                [
-                    16.561400000000024,
-                    -54.077600000000025
-                ],
-                [
-                    16.584700000000023,
-                    -54.14940000000003
-                ],
-                [
-                    16.606000000000023,
-                    -54.222500000000025
-                ],
-                [
-                    16.632700000000025,
-                    -54.29620000000003
-                ],
-                [
-                    16.659200000000023,
-                    -54.36540000000003
-                ],
-                [
-                    16.687100000000022,
-                    -54.43340000000003
-                ],
-                [
-                    16.712900000000023,
-                    -54.501200000000026
-                ],
-                [
-                    16.740000000000023,
-                    -54.56780000000003
-                ],
-                [
-                    16.764000000000024,
-                    -54.63360000000003
-                ],
-                [
-                    16.782800000000023,
-                    -54.70400000000003
-                ],
-                [
-                    16.795400000000022,
-                    -54.77060000000003
-                ],
-                [
-                    16.80660000000002,
-                    -54.83960000000003
-                ],
-                [
-                    16.821300000000022,
-                    -54.91580000000003
-                ],
-                [
-                    16.83540000000002,
-                    -54.98580000000003
-                ],
-                [
-                    16.84000000000002,
-                    -55.060100000000034
-                ],
-                [
-                    16.847300000000022,
-                    -55.13410000000003
-                ],
-                [
-                    16.852900000000023,
-                    -55.20790000000003
-                ],
-                [
-                    16.855400000000024,
-                    -55.27640000000003
-                ],
-                [
-                    16.858700000000024,
-                    -55.34960000000003
-                ],
-                [
-                    16.869100000000024,
-                    -55.426100000000034
-                ],
-                [
-                    16.875900000000023,
-                    -55.50180000000003
-                ],
-                [
-                    16.87970000000002,
-                    -55.58060000000003
-                ],
-                [
-                    16.88730000000002,
-                    -55.662200000000034
-                ],
-                [
-                    16.90860000000002,
-                    -55.74110000000003
-                ],
-                [
-                    16.93160000000002,
-                    -55.81990000000003
-                ],
-                [
-                    16.95280000000002,
-                    -55.89890000000003
-                ],
-                [
-                    16.973600000000022,
-                    -55.97500000000003
-                ],
-                [
-                    16.99830000000002,
-                    -56.05510000000003
-                ],
-                [
-                    17.016300000000022,
-                    -56.13470000000003
-                ],
-                [
-                    17.03660000000002,
-                    -56.21280000000003
-                ],
-                [
-                    17.051100000000023,
-                    -56.28730000000003
-                ],
-                [
-                    17.071800000000025,
-                    -56.36020000000003
-                ],
-                [
-                    17.101900000000025,
-                    -56.42980000000003
-                ],
-                [
-                    17.128600000000027,
-                    -56.50560000000003
-                ],
-                [
-                    17.094600000000028,
-                    -56.56700000000003
-                ],
-                [
-                    17.046000000000028,
-                    -56.63170000000003
-                ],
-                [
-                    16.996400000000026,
-                    -56.69400000000003
-                ],
-                [
-                    16.948100000000025,
-                    -56.75260000000003
-                ],
-                [
-                    16.899000000000026,
-                    -56.80590000000003
-                ],
-                [
-                    16.845800000000025,
-                    -56.85870000000003
-                ],
-                [
-                    16.795400000000026,
-                    -56.91090000000003
-                ],
-                [
-                    16.743600000000026,
-                    -56.960500000000025
-                ],
-                [
-                    16.691600000000026,
-                    -57.013200000000026
-                ],
-                [
-                    16.642700000000026,
-                    -57.06570000000003
-                ],
-                [
-                    16.620300000000025,
-                    -57.12530000000003
-                ],
-                [
-                    16.641700000000025,
-                    -57.20640000000003
-                ],
-                [
-                    16.668400000000027,
-                    -57.28110000000003
-                ],
-                [
-                    16.687800000000028,
-                    -57.35630000000003
-                ],
-                [
-                    16.712000000000028,
-                    -57.43540000000003
-                ],
-                [
-                    16.73890000000003,
-                    -57.51530000000003
-                ],
-                [
-                    16.76010000000003,
-                    -57.591600000000035
-                ],
-                [
-                    16.78140000000003,
-                    -57.669900000000034
-                ],
-                [
-                    16.78990000000003,
-                    -57.73810000000003
-                ],
-                [
-                    16.81460000000003,
-                    -57.80430000000003
-                ],
-                [
-                    16.84770000000003,
-                    -57.872600000000034
-                ],
-                [
-                    16.88160000000003,
-                    -57.94140000000004
-                ],
-                [
-                    16.90940000000003,
-                    -58.00930000000004
-                ],
-                [
-                    16.90920000000003,
-                    -58.070200000000035
-                ],
-                [
-                    16.87920000000003,
-                    -58.131400000000035
-                ],
-                [
-                    16.844700000000028,
-                    -58.19320000000003
-                ],
-                [
-                    16.80800000000003,
-                    -58.25370000000003
-                ],
-                [
-                    16.76930000000003,
-                    -58.31640000000003
-                ],
-                [
-                    16.72760000000003,
-                    -58.37730000000003
-                ],
-                [
-                    16.68550000000003,
-                    -58.44010000000003
-                ],
-                [
-                    16.64640000000003,
-                    -58.50500000000003
-                ],
-                [
-                    16.60760000000003,
-                    -58.567800000000034
-                ],
-                [
-                    16.56290000000003,
-                    -58.62810000000003
-                ],
-                [
-                    16.52540000000003,
-                    -58.69340000000003
-                ],
-                [
-                    16.48970000000003,
-                    -58.75950000000003
-                ],
-                [
-                    16.44840000000003,
-                    -58.82560000000003
-                ],
-                [
-                    16.400800000000032,
-                    -58.89050000000003
-                ],
-                [
-                    16.35270000000003,
-                    -58.95440000000003
-                ],
-                [
-                    16.30140000000003,
-                    -59.02100000000003
-                ],
-                [
-                    16.24750000000003,
-                    -59.08800000000003
-                ],
-                [
-                    16.198200000000032,
-                    -59.14970000000003
-                ],
-                [
-                    16.14190000000003,
-                    -59.21480000000003
-                ],
-                [
-                    16.098600000000033,
-                    -59.27830000000003
-                ],
-                [
-                    16.051300000000033,
-                    -59.34210000000003
-                ],
-                [
-                    16.012900000000034,
-                    -59.41050000000003
-                ],
-                [
-                    15.973200000000034,
-                    -59.47860000000003
-                ],
-                [
-                    15.941300000000034,
-                    -59.545500000000025
-                ],
-                [
-                    15.912400000000034,
-                    -59.61130000000003
-                ],
-                [
-                    15.883600000000033,
-                    -59.671600000000026
-                ],
-                [
-                    15.841500000000034,
-                    -59.731100000000026
-                ],
-                [
-                    15.799000000000033,
-                    -59.79820000000003
-                ],
-                [
-                    15.764400000000034,
-                    -59.86130000000003
-                ],
-                [
-                    15.720700000000035,
-                    -59.92340000000003
-                ],
-                [
-                    15.746000000000034,
-                    -59.98560000000003
-                ],
-                [
-                    15.783700000000033,
-                    -60.05350000000003
-                ],
-                [
-                    15.826400000000033,
-                    -60.114000000000026
-                ],
-                [
-                    15.861700000000033,
-                    -60.17790000000002
-                ],
-                [
-                    15.893200000000032,
-                    -60.24180000000002
-                ],
-                [
-                    15.923100000000032,
-                    -60.30990000000002
-                ],
-                [
-                    15.958200000000032,
-                    -60.37790000000002
-                ],
-                [
-                    15.994000000000032,
-                    -60.44770000000002
-                ],
-                [
-                    16.02610000000003,
-                    -60.51230000000002
-                ],
-                [
-                    16.051900000000032,
-                    -60.580900000000014
-                ],
-                [
-                    16.086600000000033,
-                    -60.650100000000016
-                ],
-                [
-                    16.124700000000033,
-                    -60.71550000000001
-                ],
-                [
-                    16.163100000000032,
-                    -60.783200000000015
-                ],
-                [
-                    16.17270000000003,
-                    -60.80670000000001
-                ],
-                [
-                    16.18330000000003,
-                    -60.83000000000001
-                ],
-                [
-                    16.19410000000003,
-                    -60.853800000000014
-                ],
-                [
-                    16.201300000000032,
-                    -60.87380000000002
-                ],
-                [
-                    16.19690000000003,
-                    -60.89120000000002
-                ],
-                [
-                    16.190600000000032,
-                    -60.90790000000002
-                ],
-                [
-                    16.179800000000032,
-                    -60.92650000000002
-                ],
-                [
-                    16.16930000000003,
-                    -60.94550000000002
-                ],
-                [
-                    16.160000000000032,
-                    -60.96610000000002
-                ],
-                [
-                    16.150100000000034,
-                    -60.98760000000002
-                ],
-                [
-                    16.142300000000034,
-                    -61.010800000000025
-                ],
-                [
-                    16.133600000000033,
-                    -61.03210000000002
-                ],
-                [
-                    16.125600000000034,
-                    -61.05290000000002
-                ],
-                [
-                    16.117900000000034,
-                    -61.074800000000025
-                ],
-                [
-                    16.128800000000034,
-                    -61.092800000000025
-                ],
-                [
-                    16.143100000000032,
-                    -61.111600000000024
-                ],
-                [
-                    16.153700000000033,
-                    -61.13020000000002
+                    16.51999999999998,
+                    -59.06289999999996
                 ],
                 [
-                    16.166800000000034,
-                    -61.148400000000024
+                    16.550599999999978,
+                    -59.12389999999996
                 ],
                 [
-                    16.1806,
-                    -61.1663
+                    16.5506,
+                    -59.1239
                 ]
             ]
         },
         "1057": {
-            "heading": 238,
+            "heading": 307,
             "rank": 51,
             "sail": 1057,
-            "timestamp": 1699932600,
+            "timestamp": 1699936200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 7.6,
+            "speed": 9,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -81470,13 +78419,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 238,
+            "24hour_heading": 240,
             "24hour_speed": 0,
-            "24hour_vmg": 7.6,
-            "24hour_distance": 190.5,
-            "dtf": 137.3,
-            "dtl": 130,
-            "dtp": -0.8,
+            "24hour_vmg": 7.5,
+            "24hour_distance": 186.8,
+            "dtf": 130.1,
+            "dtl": 126.2,
+            "dtp": 3.8,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -84696,8 +81645,20 @@
                     -58.91259999999997
                 ],
                 [
-                    15.9143,
-                    -58.9126
+                    15.911879999999988,
+                    -58.95504999999997
+                ],
+                [
+                    15.918399999999988,
+                    -58.96879999999997
+                ],
+                [
+                    15.963599999999987,
+                    -59.03149999999997
+                ],
+                [
+                    15.9636,
+                    -59.0315
                 ]
             ]
         }

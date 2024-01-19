@@ -7,10 +7,10 @@ const fs = require('fs');
 // implementation from Chrome devtools. Not very nice but it does the job ;-)
 
 var _0Xedc3 = function (_0xc5c0x2) {
-	var _0xc5c0x3 = 10219599;
-	var _0xc5c0x4 = 10361048;
-	var _0xc5c0x5 = 4455634;
-	var _0xc5c0x6 = 16642882;
+	var _0xc5c0x3 = 8111253;
+	var _0xc5c0x4 = 4544506;
+	var _0xc5c0x5 = 13986479;
+	var _0xc5c0x6 = 16744512;
 	for (var _0xc5c0x7 = 0; _0xc5c0x7 < _0xc5c0x2; ++_0xc5c0x7) {
 		_0xc5c0x8()
 	}
@@ -70,9 +70,9 @@ var UInt8Array = function (input) {
 
 // ================================ CONSTANTS =================================
 
-const geovoileHostname = 'minitransat.geovoile.com';
-const resourcesBasePath = '/2023/resources/versions/leg2/';
-const trackerBasePath = '/2023/tracker/resources/leg2/';
+const geovoileHostname = 'arkeaultimchallengebrest.geovoile.com';
+const resourcesBasePath = '/2024/resources/versions/';
+const trackerBasePath = '/2024/tracker/resources/';
 
 // ================================== UTILS ===================================
 

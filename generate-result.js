@@ -30,7 +30,7 @@ for (let i = 0; i < boatsData.length; i++) {
     const sail = parseInt(boatsData[i][0]);
     const locForId = findLocById(jsonTracks.tracks, sail);
     let lastLocDatetime = locForId[0][0];
-    const trackDataArray = boatsData[i][29];
+    const trackDataArray = boatsData[i][21];
     const track = [];
     const firstPoint = [
         (locForId[0][1] / 100000),

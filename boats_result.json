@@ -1,13 +1,13 @@
 {
     "result": {
         "1": {
-            "heading": 350,
+            "heading": 5,
             "rank": 1,
             "sail": 1,
-            "timestamp": 1708311600,
+            "timestamp": 1708315200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 23.9,
+            "speed": 23.1,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -16,11 +16,11 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 359,
+            "24hour_heading": 360,
             "24hour_speed": 0,
-            "24hour_vmg": 20.2,
-            "24hour_distance": 580.8,
-            "dtf": 2007.9,
+            "24hour_vmg": 19.5,
+            "24hour_distance": 578.4,
+            "dtf": 1990.5,
             "dtl": 0,
             "dtp": 0,
             "darksky_twd": "-",
@@ -16206,19 +16206,35 @@
                     -36.51956000000006
                 ],
                 [
-                    25.85221,
-                    -36.51948
+                    25.94982000000027,
+                    -36.538150000000066
+                ],
+                [
+                    26.05144000000027,
+                    -36.549590000000066
+                ],
+                [
+                    26.15007000000027,
+                    -36.545740000000066
+                ],
+                [
+                    26.24576000000027,
+                    -36.53979000000007
+                ],
+                [
+                    26.24576,
+                    -36.53971
                 ]
             ]
         },
         "2": {
-            "heading": 78,
+            "heading": 73,
             "rank": 3,
             "sail": 2,
-            "timestamp": 1708308900,
+            "timestamp": 1708315200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 25.8,
+            "speed": 19.6,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -16227,13 +16243,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 110,
+            "24hour_heading": 102,
             "24hour_speed": 0,
-            "24hour_vmg": 0.8,
-            "24hour_distance": 122.4,
-            "dtf": 4760,
-            "dtl": 2752.1,
-            "dtp": -1.5,
+            "24hour_vmg": 1.9,
+            "24hour_distance": 160.8,
+            "dtf": 4746.2,
+            "dtl": 2755.7,
+            "dtp": -3.6,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -45209,19 +45225,35 @@
                     -41.058699999999526
                 ],
                 [
-                    -23.62574,
-                    -41.05891
+                    -23.54127000000006,
+                    -40.64656999999953
+                ],
+                [
+                    -23.510460000000062,
+                    -40.53021999999953
+                ],
+                [
+                    -23.48027000000006,
+                    -40.41738999999953
+                ],
+                [
+                    -23.45645000000006,
+                    -40.33223999999953
+                ],
+                [
+                    -23.45645,
+                    -40.33245
                 ]
             ]
         },
         "3": {
-            "heading": 85,
+            "heading": 97,
             "rank": 4,
             "sail": 3,
-            "timestamp": 1708311600,
+            "timestamp": 1708315200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 20.6,
+            "speed": 19.9,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -45230,13 +45262,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 114,
+            "24hour_heading": 113,
             "24hour_speed": 0,
-            "24hour_vmg": 18,
-            "24hour_distance": 432,
-            "dtf": 7891.1,
-            "dtl": 5883.2,
-            "dtp": 1.9,
+            "24hour_vmg": 18.3,
+            "24hour_distance": 439.2,
+            "dtf": 7872.8,
+            "dtl": 5882.3,
+            "dtp": 0.9,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -59880,8 +59912,16 @@
                     -92.42189000000006
                 ],
                 [
-                    -54.37919,
-                    -92.42175
+                    -54.37709999999998,
+                    -92.16626000000007
+                ],
+                [
+                    -54.396679999999975,
+                    -91.88321000000006
+                ],
+                [
+                    -54.39668,
+                    -91.88307
                 ]
             ]
         },
@@ -59889,10 +59929,10 @@
             "heading": 7,
             "rank": 2,
             "sail": 4,
-            "timestamp": 1708311607,
+            "timestamp": 1708315207,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 19.4,
+            "speed": 19.9,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -59901,13 +59941,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 55,
+            "24hour_heading": 53,
             "24hour_speed": 0,
-            "24hour_vmg": 12.8,
-            "24hour_distance": 403.2,
-            "dtf": 4330.4,
-            "dtl": 2322.5,
-            "dtp": 1.8,
+            "24hour_vmg": 12.7,
+            "24hour_distance": 388.8,
+            "dtf": 4310.8,
+            "dtl": 2320.4,
+            "dtp": 2.1,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -75887,19 +75927,35 @@
                     -32.82569000000037
                 ],
                 [
-                    -18.21611,
-                    -32.82569
+                    -18.136050000000125,
+                    -32.81930000000037
+                ],
+                [
+                    -18.054730000000124,
+                    -32.806960000000366
+                ],
+                [
+                    -17.972980000000124,
+                    -32.797240000000365
+                ],
+                [
+                    -17.890770000000124,
+                    -32.78906000000036
+                ],
+                [
+                    -17.89077,
+                    -32.78906
                 ]
             ]
         },
         "6": {
-            "heading": 87,
+            "heading": 88,
             "rank": 5,
             "sail": 6,
-            "timestamp": 1708311600,
+            "timestamp": 1708315200,
             "lat_dec": 46.275,
             "lon_dec": 1.475,
-            "speed": 28,
+            "speed": 29.1,
             "1hour_heading": 0,
             "1hour_speed": 0,
             "1hour_vmg": 0,
@@ -75908,13 +75964,13 @@
             "lastreport_speed": 0,
             "lastreport_vmg": 0,
             "lastreport_distance": 0,
-            "24hour_heading": 93,
+            "24hour_heading": 94,
             "24hour_speed": 0,
-            "24hour_vmg": 23.2,
-            "24hour_distance": 607.2,
-            "dtf": 8394.3,
-            "dtl": 6386.4,
-            "dtp": 8.3,
+            "24hour_vmg": 23.6,
+            "24hour_distance": 614.4,
+            "dtf": 8369.2,
+            "dtl": 6378.8,
+            "dtp": 7.6,
             "darksky_twd": "-",
             "darksky_tws": "-",
             "darksky_air": "-",
@@ -91870,8 +91926,20 @@
                     -106.07961999999995
                 ],
                 [
-                    -52.24522,
-                    -106.07948
+                    -52.24595000000003,
+                    -105.71568999999995
+                ],
+                [
+                    -52.243680000000026,
+                    -105.53123999999995
+                ],
+                [
+                    -52.238330000000026,
+                    -105.33396999999995
+                ],
+                [
+                    -52.23833,
+                    -105.33383
                 ]
             ]
         }
